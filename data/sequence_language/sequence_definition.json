@@ -1,0 +1,33 @@
+{
+  "authors": 3777,
+  "primary": {
+    "minimum_total": 15.0,
+    "block_width": 5.0,
+    "authors": 3777.0,
+    "early_resistant": 1983.0,
+    "early_other": 1794.0,
+    "last_resistant_among_early_resistant": 1053.0,
+    "last_resistant_among_early_other": 529.0,
+    "retention": 0.5310136157337367,
+    "later_positive_other": 0.2948717948717949,
+    "spearman": 0.2986037984675806,
+    "annual_spearman_same_authors": 0.471335699657694,
+    "early_sign_agreement_with_annual": 0.793751654752449,
+    "late_sign_agreement_with_annual": 0.8572941487953403,
+    "difference": 0.2361418208619418,
+    "lower": 0.2053639785735402,
+    "upper": 0.2662258885745482,
+    "z": 14.689211186259632,
+    "p": 7.55885921641223e-49,
+    "spearman_lower": 0.271508183335036,
+    "spearman_upper": 0.3258376505273901,
+    "holm_p": 3.779429608206115e-48
+  },
+  "selection": "15\u201330 first-authored papers; >=5 early and >=5 late; first 5 versus last 5",
+  "boundaries": "Original exclusion of same-date sets split by a block boundary retained",
+  "binning": "20 equal-count first-block-R bins; mean last-block R and 500 author-bootstrap percentile intervals",
+  "correlation": "Spearman correlation of individual author block scores, not displayed bin means",
+  "bars": "Positive R in final block, conditional on positive versus nonpositive first-block R; no bar error bars",
+  "next_paper": "Strictly earlier 3/5/7 papers; author-equal WLS; author-clustered covariance; field and quarter controls",
+  "frozen_R_verified": true
+}

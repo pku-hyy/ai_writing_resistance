@@ -1,0 +1,845 @@
+family,predictor,term,coefficient,se,p,authors
+Early research setting,English-speaking affiliation share,Intercept,0.19494637262316256,0.10418937853818418,0.06133437871708956,37629
+Early research setting,English-speaking affiliation share,C(field)[T.Arts and Humanities],-0.05711595591515121,0.10015912119936708,0.5685066784208401,37629
+Early research setting,English-speaking affiliation share,"C(field)[T.Biochemistry, Genetics and Molecular Biology]",0.013600232290294294,0.06045453173548145,0.8220054914108716,37629
+Early research setting,English-speaking affiliation share,"C(field)[T.Business, Management and Accounting]",0.5828647075867839,0.08045155180653467,4.3270838406752035e-13,37629
+Early research setting,English-speaking affiliation share,C(field)[T.Chemical Engineering],0.4008330933610784,0.1950793658560388,0.03990624592447327,37629
+Early research setting,English-speaking affiliation share,C(field)[T.Chemistry],-0.05403550328417951,0.10499116583579167,0.606785637860705,37629
+Early research setting,English-speaking affiliation share,C(field)[T.Computer Science],0.2965967095282108,0.060013402885944575,7.725601886282959e-07,37629
+Early research setting,English-speaking affiliation share,C(field)[T.Decision Sciences],-0.09710907328428169,0.12919831840274626,0.45227480183107815,37629
+Early research setting,English-speaking affiliation share,C(field)[T.Dentistry],-0.3269889307528899,0.13101175744742982,0.01256469756741949,37629
+Early research setting,English-speaking affiliation share,C(field)[T.Earth and Planetary Sciences],-0.18941936444008217,0.09077354277432156,0.03691305647057929,37629
+Early research setting,English-speaking affiliation share,"C(field)[T.Economics, Econometrics and Finance]",0.15338021190436268,0.09181738148837608,0.09482203795910085,37629
+Early research setting,English-speaking affiliation share,C(field)[T.Energy],0.35618619137244195,0.13427549379722087,0.00798621009140834,37629
+Early research setting,English-speaking affiliation share,C(field)[T.Engineering],0.27703449547715003,0.051835089746839064,9.064903417663873e-08,37629
+Early research setting,English-speaking affiliation share,C(field)[T.Environmental Science],-0.022018800200757787,0.06816519235710405,0.7466792093007086,37629
+Early research setting,English-speaking affiliation share,C(field)[T.Health Professions],-0.010449734366326353,0.08212635095657492,0.8987506643469195,37629
+Early research setting,English-speaking affiliation share,C(field)[T.Immunology and Microbiology],-0.21064688177117116,0.12225239022068951,0.0848796302696985,37629
+Early research setting,English-speaking affiliation share,C(field)[T.Materials Science],0.1640253382421467,0.08268163089283519,0.04727609148396115,37629
+Early research setting,English-speaking affiliation share,C(field)[T.Mathematics],-0.5186923818480702,0.12078691432266381,1.7526410706541853e-05,37629
+Early research setting,English-speaking affiliation share,C(field)[T.Medicine],-0.3098775964847467,0.04868381735795169,1.9515651855736538e-10,37629
+Early research setting,English-speaking affiliation share,C(field)[T.Neuroscience],-0.07024562970011289,0.1014272043499185,0.48857826176167707,37629
+Early research setting,English-speaking affiliation share,C(field)[T.Nursing],-0.11598083143835725,0.22513558322341382,0.6064412665444738,37629
+Early research setting,English-speaking affiliation share,"C(field)[T.Pharmacology, Toxicology and Pharmaceutics]",0.16166592912726588,0.3302303179990649,0.6244487708726245,37629
+Early research setting,English-speaking affiliation share,C(field)[T.Physics and Astronomy],-0.4916980986198363,0.07635659968646795,1.1987004336618986e-10,37629
+Early research setting,English-speaking affiliation share,C(field)[T.Psychology],-0.09018441559393248,0.07396044297181797,0.2227075343279128,37629
+Early research setting,English-speaking affiliation share,C(field)[T.Social Sciences],0.15636791744805362,0.06396697759426216,0.014504905301461375,37629
+Early research setting,English-speaking affiliation share,C(field)[T.Veterinary],-0.9866447123301241,0.42397518549334057,0.019958430208907346,37629
+Early research setting,English-speaking affiliation share,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[0]",-0.0560534394891148,0.11685641250529476,0.6314564390867814,37629
+Early research setting,English-speaking affiliation share,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[1]",-0.20798291003031982,0.08040770725527943,0.009692687033098663,37629
+Early research setting,English-speaking affiliation share,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[2]",-1.7946729062019366,0.1590595121096386,1.5917140123827e-29,37629
+Early research setting,English-speaking affiliation share,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[3]",-0.2875056263496847,0.2989262395196432,0.33615281905930494,37629
+Early research setting,English-speaking affiliation share,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[4]",-2.140092376814815,0.5938924380395745,0.0003139587606783281,37629
+Early research setting,English-speaking affiliation share,"bs(age_years, df=4, degree=3)[0]",-0.013263598357799123,0.07562777714244108,0.860781067152913,37629
+Early research setting,English-speaking affiliation share,"bs(age_years, df=4, degree=3)[1]",0.38820865624186474,0.10751352048704048,0.000305266729125647,37629
+Early research setting,English-speaking affiliation share,"bs(age_years, df=4, degree=3)[2]",-0.2336628038197535,0.18419497925817416,0.20459722283373227,37629
+Early research setting,English-speaking affiliation share,"bs(age_years, df=4, degree=3)[3]",0.337443980429281,0.17526917559314845,0.05419309558621274,37629
+Early research setting,English-speaking affiliation share,"bs(pre_alpha, df=4, degree=3)[0]",0.23495906226915284,0.033518048048028076,2.3844289389765347e-12,37629
+Early research setting,English-speaking affiliation share,"bs(pre_alpha, df=4, degree=3)[1]",0.4064515657645811,0.16566221834003705,0.014147517051726738,37629
+Early research setting,English-speaking affiliation share,"bs(pre_alpha, df=4, degree=3)[2]",1.789796333599227,0.4419692821752004,5.130647704313049e-05,37629
+Early research setting,English-speaking affiliation share,"bs(pre_alpha, df=4, degree=3)[3]",0.7947242565128992,0.5513095332501501,0.14943755567201578,37629
+Early research setting,English-speaking affiliation share,country,-0.324004418621377,0.02806238835099378,7.746239728786107e-31,37629
+Early research setting,English-speaking affiliation share,z_history,-0.16404271852045496,0.018704704869861647,1.7845798716309324e-18,37629
+Early research setting,English-speaking affiliation share,z_recent,0.04082020554908306,0.016143300577709456,0.011451329056033611,37629
+Early research setting,English-speaking affiliation share,z_early_n,-0.26176590776348785,0.02028361044465195,4.2022167249449907e-38,37629
+Early research setting,English-speaking affiliation share,z_collaborators,0.4321270172384105,0.03207860887318919,2.320905444790288e-41,37629
+Early research setting,English-speaking affiliation share,z_team,-0.2674630552704714,0.029515622557466117,1.283796314582926e-19,37629
+Early research setting,Cumulative first-author output,Intercept,0.19494637262316256,0.10418937853818418,0.06133437871708956,37629
+Early research setting,Cumulative first-author output,C(field)[T.Arts and Humanities],-0.05711595591515121,0.10015912119936708,0.5685066784208401,37629
+Early research setting,Cumulative first-author output,"C(field)[T.Biochemistry, Genetics and Molecular Biology]",0.013600232290294294,0.06045453173548145,0.8220054914108716,37629
+Early research setting,Cumulative first-author output,"C(field)[T.Business, Management and Accounting]",0.5828647075867839,0.08045155180653467,4.3270838406752035e-13,37629
+Early research setting,Cumulative first-author output,C(field)[T.Chemical Engineering],0.4008330933610784,0.1950793658560388,0.03990624592447327,37629
+Early research setting,Cumulative first-author output,C(field)[T.Chemistry],-0.05403550328417951,0.10499116583579167,0.606785637860705,37629
+Early research setting,Cumulative first-author output,C(field)[T.Computer Science],0.2965967095282108,0.060013402885944575,7.725601886282959e-07,37629
+Early research setting,Cumulative first-author output,C(field)[T.Decision Sciences],-0.09710907328428169,0.12919831840274626,0.45227480183107815,37629
+Early research setting,Cumulative first-author output,C(field)[T.Dentistry],-0.3269889307528899,0.13101175744742982,0.01256469756741949,37629
+Early research setting,Cumulative first-author output,C(field)[T.Earth and Planetary Sciences],-0.18941936444008217,0.09077354277432156,0.03691305647057929,37629
+Early research setting,Cumulative first-author output,"C(field)[T.Economics, Econometrics and Finance]",0.15338021190436268,0.09181738148837608,0.09482203795910085,37629
+Early research setting,Cumulative first-author output,C(field)[T.Energy],0.35618619137244195,0.13427549379722087,0.00798621009140834,37629
+Early research setting,Cumulative first-author output,C(field)[T.Engineering],0.27703449547715003,0.051835089746839064,9.064903417663873e-08,37629
+Early research setting,Cumulative first-author output,C(field)[T.Environmental Science],-0.022018800200757787,0.06816519235710405,0.7466792093007086,37629
+Early research setting,Cumulative first-author output,C(field)[T.Health Professions],-0.010449734366326353,0.08212635095657492,0.8987506643469195,37629
+Early research setting,Cumulative first-author output,C(field)[T.Immunology and Microbiology],-0.21064688177117116,0.12225239022068951,0.0848796302696985,37629
+Early research setting,Cumulative first-author output,C(field)[T.Materials Science],0.1640253382421467,0.08268163089283519,0.04727609148396115,37629
+Early research setting,Cumulative first-author output,C(field)[T.Mathematics],-0.5186923818480702,0.12078691432266381,1.7526410706541853e-05,37629
+Early research setting,Cumulative first-author output,C(field)[T.Medicine],-0.3098775964847467,0.04868381735795169,1.9515651855736538e-10,37629
+Early research setting,Cumulative first-author output,C(field)[T.Neuroscience],-0.07024562970011289,0.1014272043499185,0.48857826176167707,37629
+Early research setting,Cumulative first-author output,C(field)[T.Nursing],-0.11598083143835725,0.22513558322341382,0.6064412665444738,37629
+Early research setting,Cumulative first-author output,"C(field)[T.Pharmacology, Toxicology and Pharmaceutics]",0.16166592912726588,0.3302303179990649,0.6244487708726245,37629
+Early research setting,Cumulative first-author output,C(field)[T.Physics and Astronomy],-0.4916980986198363,0.07635659968646795,1.1987004336618986e-10,37629
+Early research setting,Cumulative first-author output,C(field)[T.Psychology],-0.09018441559393248,0.07396044297181797,0.2227075343279128,37629
+Early research setting,Cumulative first-author output,C(field)[T.Social Sciences],0.15636791744805362,0.06396697759426216,0.014504905301461375,37629
+Early research setting,Cumulative first-author output,C(field)[T.Veterinary],-0.9866447123301241,0.42397518549334057,0.019958430208907346,37629
+Early research setting,Cumulative first-author output,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[0]",-0.0560534394891148,0.11685641250529476,0.6314564390867814,37629
+Early research setting,Cumulative first-author output,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[1]",-0.20798291003031982,0.08040770725527943,0.009692687033098663,37629
+Early research setting,Cumulative first-author output,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[2]",-1.7946729062019366,0.1590595121096386,1.5917140123827e-29,37629
+Early research setting,Cumulative first-author output,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[3]",-0.2875056263496847,0.2989262395196432,0.33615281905930494,37629
+Early research setting,Cumulative first-author output,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[4]",-2.140092376814815,0.5938924380395745,0.0003139587606783281,37629
+Early research setting,Cumulative first-author output,"bs(age_years, df=4, degree=3)[0]",-0.013263598357799123,0.07562777714244108,0.860781067152913,37629
+Early research setting,Cumulative first-author output,"bs(age_years, df=4, degree=3)[1]",0.38820865624186474,0.10751352048704048,0.000305266729125647,37629
+Early research setting,Cumulative first-author output,"bs(age_years, df=4, degree=3)[2]",-0.2336628038197535,0.18419497925817416,0.20459722283373227,37629
+Early research setting,Cumulative first-author output,"bs(age_years, df=4, degree=3)[3]",0.337443980429281,0.17526917559314845,0.05419309558621274,37629
+Early research setting,Cumulative first-author output,"bs(pre_alpha, df=4, degree=3)[0]",0.23495906226915284,0.033518048048028076,2.3844289389765347e-12,37629
+Early research setting,Cumulative first-author output,"bs(pre_alpha, df=4, degree=3)[1]",0.4064515657645811,0.16566221834003705,0.014147517051726738,37629
+Early research setting,Cumulative first-author output,"bs(pre_alpha, df=4, degree=3)[2]",1.789796333599227,0.4419692821752004,5.130647704313049e-05,37629
+Early research setting,Cumulative first-author output,"bs(pre_alpha, df=4, degree=3)[3]",0.7947242565128992,0.5513095332501501,0.14943755567201578,37629
+Early research setting,Cumulative first-author output,country,-0.324004418621377,0.02806238835099378,7.746239728786107e-31,37629
+Early research setting,Cumulative first-author output,z_history,-0.16404271852045496,0.018704704869861647,1.7845798716309324e-18,37629
+Early research setting,Cumulative first-author output,z_recent,0.04082020554908306,0.016143300577709456,0.011451329056033611,37629
+Early research setting,Cumulative first-author output,z_early_n,-0.26176590776348785,0.02028361044465195,4.2022167249449907e-38,37629
+Early research setting,Cumulative first-author output,z_collaborators,0.4321270172384105,0.03207860887318919,2.320905444790288e-41,37629
+Early research setting,Cumulative first-author output,z_team,-0.2674630552704714,0.029515622557466117,1.283796314582926e-19,37629
+Early research setting,Recent first-author output,Intercept,0.19494637262316256,0.10418937853818418,0.06133437871708956,37629
+Early research setting,Recent first-author output,C(field)[T.Arts and Humanities],-0.05711595591515121,0.10015912119936708,0.5685066784208401,37629
+Early research setting,Recent first-author output,"C(field)[T.Biochemistry, Genetics and Molecular Biology]",0.013600232290294294,0.06045453173548145,0.8220054914108716,37629
+Early research setting,Recent first-author output,"C(field)[T.Business, Management and Accounting]",0.5828647075867839,0.08045155180653467,4.3270838406752035e-13,37629
+Early research setting,Recent first-author output,C(field)[T.Chemical Engineering],0.4008330933610784,0.1950793658560388,0.03990624592447327,37629
+Early research setting,Recent first-author output,C(field)[T.Chemistry],-0.05403550328417951,0.10499116583579167,0.606785637860705,37629
+Early research setting,Recent first-author output,C(field)[T.Computer Science],0.2965967095282108,0.060013402885944575,7.725601886282959e-07,37629
+Early research setting,Recent first-author output,C(field)[T.Decision Sciences],-0.09710907328428169,0.12919831840274626,0.45227480183107815,37629
+Early research setting,Recent first-author output,C(field)[T.Dentistry],-0.3269889307528899,0.13101175744742982,0.01256469756741949,37629
+Early research setting,Recent first-author output,C(field)[T.Earth and Planetary Sciences],-0.18941936444008217,0.09077354277432156,0.03691305647057929,37629
+Early research setting,Recent first-author output,"C(field)[T.Economics, Econometrics and Finance]",0.15338021190436268,0.09181738148837608,0.09482203795910085,37629
+Early research setting,Recent first-author output,C(field)[T.Energy],0.35618619137244195,0.13427549379722087,0.00798621009140834,37629
+Early research setting,Recent first-author output,C(field)[T.Engineering],0.27703449547715003,0.051835089746839064,9.064903417663873e-08,37629
+Early research setting,Recent first-author output,C(field)[T.Environmental Science],-0.022018800200757787,0.06816519235710405,0.7466792093007086,37629
+Early research setting,Recent first-author output,C(field)[T.Health Professions],-0.010449734366326353,0.08212635095657492,0.8987506643469195,37629
+Early research setting,Recent first-author output,C(field)[T.Immunology and Microbiology],-0.21064688177117116,0.12225239022068951,0.0848796302696985,37629
+Early research setting,Recent first-author output,C(field)[T.Materials Science],0.1640253382421467,0.08268163089283519,0.04727609148396115,37629
+Early research setting,Recent first-author output,C(field)[T.Mathematics],-0.5186923818480702,0.12078691432266381,1.7526410706541853e-05,37629
+Early research setting,Recent first-author output,C(field)[T.Medicine],-0.3098775964847467,0.04868381735795169,1.9515651855736538e-10,37629
+Early research setting,Recent first-author output,C(field)[T.Neuroscience],-0.07024562970011289,0.1014272043499185,0.48857826176167707,37629
+Early research setting,Recent first-author output,C(field)[T.Nursing],-0.11598083143835725,0.22513558322341382,0.6064412665444738,37629
+Early research setting,Recent first-author output,"C(field)[T.Pharmacology, Toxicology and Pharmaceutics]",0.16166592912726588,0.3302303179990649,0.6244487708726245,37629
+Early research setting,Recent first-author output,C(field)[T.Physics and Astronomy],-0.4916980986198363,0.07635659968646795,1.1987004336618986e-10,37629
+Early research setting,Recent first-author output,C(field)[T.Psychology],-0.09018441559393248,0.07396044297181797,0.2227075343279128,37629
+Early research setting,Recent first-author output,C(field)[T.Social Sciences],0.15636791744805362,0.06396697759426216,0.014504905301461375,37629
+Early research setting,Recent first-author output,C(field)[T.Veterinary],-0.9866447123301241,0.42397518549334057,0.019958430208907346,37629
+Early research setting,Recent first-author output,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[0]",-0.0560534394891148,0.11685641250529476,0.6314564390867814,37629
+Early research setting,Recent first-author output,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[1]",-0.20798291003031982,0.08040770725527943,0.009692687033098663,37629
+Early research setting,Recent first-author output,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[2]",-1.7946729062019366,0.1590595121096386,1.5917140123827e-29,37629
+Early research setting,Recent first-author output,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[3]",-0.2875056263496847,0.2989262395196432,0.33615281905930494,37629
+Early research setting,Recent first-author output,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[4]",-2.140092376814815,0.5938924380395745,0.0003139587606783281,37629
+Early research setting,Recent first-author output,"bs(age_years, df=4, degree=3)[0]",-0.013263598357799123,0.07562777714244108,0.860781067152913,37629
+Early research setting,Recent first-author output,"bs(age_years, df=4, degree=3)[1]",0.38820865624186474,0.10751352048704048,0.000305266729125647,37629
+Early research setting,Recent first-author output,"bs(age_years, df=4, degree=3)[2]",-0.2336628038197535,0.18419497925817416,0.20459722283373227,37629
+Early research setting,Recent first-author output,"bs(age_years, df=4, degree=3)[3]",0.337443980429281,0.17526917559314845,0.05419309558621274,37629
+Early research setting,Recent first-author output,"bs(pre_alpha, df=4, degree=3)[0]",0.23495906226915284,0.033518048048028076,2.3844289389765347e-12,37629
+Early research setting,Recent first-author output,"bs(pre_alpha, df=4, degree=3)[1]",0.4064515657645811,0.16566221834003705,0.014147517051726738,37629
+Early research setting,Recent first-author output,"bs(pre_alpha, df=4, degree=3)[2]",1.789796333599227,0.4419692821752004,5.130647704313049e-05,37629
+Early research setting,Recent first-author output,"bs(pre_alpha, df=4, degree=3)[3]",0.7947242565128992,0.5513095332501501,0.14943755567201578,37629
+Early research setting,Recent first-author output,country,-0.324004418621377,0.02806238835099378,7.746239728786107e-31,37629
+Early research setting,Recent first-author output,z_history,-0.16404271852045496,0.018704704869861647,1.7845798716309324e-18,37629
+Early research setting,Recent first-author output,z_recent,0.04082020554908306,0.016143300577709456,0.011451329056033611,37629
+Early research setting,Recent first-author output,z_early_n,-0.26176590776348785,0.02028361044465195,4.2022167249449907e-38,37629
+Early research setting,Recent first-author output,z_collaborators,0.4321270172384105,0.03207860887318919,2.320905444790288e-41,37629
+Early research setting,Recent first-author output,z_team,-0.2674630552704714,0.029515622557466117,1.283796314582926e-19,37629
+Early research setting,Early publication count,Intercept,0.19494637262316256,0.10418937853818418,0.06133437871708956,37629
+Early research setting,Early publication count,C(field)[T.Arts and Humanities],-0.05711595591515121,0.10015912119936708,0.5685066784208401,37629
+Early research setting,Early publication count,"C(field)[T.Biochemistry, Genetics and Molecular Biology]",0.013600232290294294,0.06045453173548145,0.8220054914108716,37629
+Early research setting,Early publication count,"C(field)[T.Business, Management and Accounting]",0.5828647075867839,0.08045155180653467,4.3270838406752035e-13,37629
+Early research setting,Early publication count,C(field)[T.Chemical Engineering],0.4008330933610784,0.1950793658560388,0.03990624592447327,37629
+Early research setting,Early publication count,C(field)[T.Chemistry],-0.05403550328417951,0.10499116583579167,0.606785637860705,37629
+Early research setting,Early publication count,C(field)[T.Computer Science],0.2965967095282108,0.060013402885944575,7.725601886282959e-07,37629
+Early research setting,Early publication count,C(field)[T.Decision Sciences],-0.09710907328428169,0.12919831840274626,0.45227480183107815,37629
+Early research setting,Early publication count,C(field)[T.Dentistry],-0.3269889307528899,0.13101175744742982,0.01256469756741949,37629
+Early research setting,Early publication count,C(field)[T.Earth and Planetary Sciences],-0.18941936444008217,0.09077354277432156,0.03691305647057929,37629
+Early research setting,Early publication count,"C(field)[T.Economics, Econometrics and Finance]",0.15338021190436268,0.09181738148837608,0.09482203795910085,37629
+Early research setting,Early publication count,C(field)[T.Energy],0.35618619137244195,0.13427549379722087,0.00798621009140834,37629
+Early research setting,Early publication count,C(field)[T.Engineering],0.27703449547715003,0.051835089746839064,9.064903417663873e-08,37629
+Early research setting,Early publication count,C(field)[T.Environmental Science],-0.022018800200757787,0.06816519235710405,0.7466792093007086,37629
+Early research setting,Early publication count,C(field)[T.Health Professions],-0.010449734366326353,0.08212635095657492,0.8987506643469195,37629
+Early research setting,Early publication count,C(field)[T.Immunology and Microbiology],-0.21064688177117116,0.12225239022068951,0.0848796302696985,37629
+Early research setting,Early publication count,C(field)[T.Materials Science],0.1640253382421467,0.08268163089283519,0.04727609148396115,37629
+Early research setting,Early publication count,C(field)[T.Mathematics],-0.5186923818480702,0.12078691432266381,1.7526410706541853e-05,37629
+Early research setting,Early publication count,C(field)[T.Medicine],-0.3098775964847467,0.04868381735795169,1.9515651855736538e-10,37629
+Early research setting,Early publication count,C(field)[T.Neuroscience],-0.07024562970011289,0.1014272043499185,0.48857826176167707,37629
+Early research setting,Early publication count,C(field)[T.Nursing],-0.11598083143835725,0.22513558322341382,0.6064412665444738,37629
+Early research setting,Early publication count,"C(field)[T.Pharmacology, Toxicology and Pharmaceutics]",0.16166592912726588,0.3302303179990649,0.6244487708726245,37629
+Early research setting,Early publication count,C(field)[T.Physics and Astronomy],-0.4916980986198363,0.07635659968646795,1.1987004336618986e-10,37629
+Early research setting,Early publication count,C(field)[T.Psychology],-0.09018441559393248,0.07396044297181797,0.2227075343279128,37629
+Early research setting,Early publication count,C(field)[T.Social Sciences],0.15636791744805362,0.06396697759426216,0.014504905301461375,37629
+Early research setting,Early publication count,C(field)[T.Veterinary],-0.9866447123301241,0.42397518549334057,0.019958430208907346,37629
+Early research setting,Early publication count,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[0]",-0.0560534394891148,0.11685641250529476,0.6314564390867814,37629
+Early research setting,Early publication count,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[1]",-0.20798291003031982,0.08040770725527943,0.009692687033098663,37629
+Early research setting,Early publication count,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[2]",-1.7946729062019366,0.1590595121096386,1.5917140123827e-29,37629
+Early research setting,Early publication count,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[3]",-0.2875056263496847,0.2989262395196432,0.33615281905930494,37629
+Early research setting,Early publication count,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[4]",-2.140092376814815,0.5938924380395745,0.0003139587606783281,37629
+Early research setting,Early publication count,"bs(age_years, df=4, degree=3)[0]",-0.013263598357799123,0.07562777714244108,0.860781067152913,37629
+Early research setting,Early publication count,"bs(age_years, df=4, degree=3)[1]",0.38820865624186474,0.10751352048704048,0.000305266729125647,37629
+Early research setting,Early publication count,"bs(age_years, df=4, degree=3)[2]",-0.2336628038197535,0.18419497925817416,0.20459722283373227,37629
+Early research setting,Early publication count,"bs(age_years, df=4, degree=3)[3]",0.337443980429281,0.17526917559314845,0.05419309558621274,37629
+Early research setting,Early publication count,"bs(pre_alpha, df=4, degree=3)[0]",0.23495906226915284,0.033518048048028076,2.3844289389765347e-12,37629
+Early research setting,Early publication count,"bs(pre_alpha, df=4, degree=3)[1]",0.4064515657645811,0.16566221834003705,0.014147517051726738,37629
+Early research setting,Early publication count,"bs(pre_alpha, df=4, degree=3)[2]",1.789796333599227,0.4419692821752004,5.130647704313049e-05,37629
+Early research setting,Early publication count,"bs(pre_alpha, df=4, degree=3)[3]",0.7947242565128992,0.5513095332501501,0.14943755567201578,37629
+Early research setting,Early publication count,country,-0.324004418621377,0.02806238835099378,7.746239728786107e-31,37629
+Early research setting,Early publication count,z_history,-0.16404271852045496,0.018704704869861647,1.7845798716309324e-18,37629
+Early research setting,Early publication count,z_recent,0.04082020554908306,0.016143300577709456,0.011451329056033611,37629
+Early research setting,Early publication count,z_early_n,-0.26176590776348785,0.02028361044465195,4.2022167249449907e-38,37629
+Early research setting,Early publication count,z_collaborators,0.4321270172384105,0.03207860887318919,2.320905444790288e-41,37629
+Early research setting,Early publication count,z_team,-0.2674630552704714,0.029515622557466117,1.283796314582926e-19,37629
+Early research setting,Distinct collaborator count,Intercept,0.19494637262316256,0.10418937853818418,0.06133437871708956,37629
+Early research setting,Distinct collaborator count,C(field)[T.Arts and Humanities],-0.05711595591515121,0.10015912119936708,0.5685066784208401,37629
+Early research setting,Distinct collaborator count,"C(field)[T.Biochemistry, Genetics and Molecular Biology]",0.013600232290294294,0.06045453173548145,0.8220054914108716,37629
+Early research setting,Distinct collaborator count,"C(field)[T.Business, Management and Accounting]",0.5828647075867839,0.08045155180653467,4.3270838406752035e-13,37629
+Early research setting,Distinct collaborator count,C(field)[T.Chemical Engineering],0.4008330933610784,0.1950793658560388,0.03990624592447327,37629
+Early research setting,Distinct collaborator count,C(field)[T.Chemistry],-0.05403550328417951,0.10499116583579167,0.606785637860705,37629
+Early research setting,Distinct collaborator count,C(field)[T.Computer Science],0.2965967095282108,0.060013402885944575,7.725601886282959e-07,37629
+Early research setting,Distinct collaborator count,C(field)[T.Decision Sciences],-0.09710907328428169,0.12919831840274626,0.45227480183107815,37629
+Early research setting,Distinct collaborator count,C(field)[T.Dentistry],-0.3269889307528899,0.13101175744742982,0.01256469756741949,37629
+Early research setting,Distinct collaborator count,C(field)[T.Earth and Planetary Sciences],-0.18941936444008217,0.09077354277432156,0.03691305647057929,37629
+Early research setting,Distinct collaborator count,"C(field)[T.Economics, Econometrics and Finance]",0.15338021190436268,0.09181738148837608,0.09482203795910085,37629
+Early research setting,Distinct collaborator count,C(field)[T.Energy],0.35618619137244195,0.13427549379722087,0.00798621009140834,37629
+Early research setting,Distinct collaborator count,C(field)[T.Engineering],0.27703449547715003,0.051835089746839064,9.064903417663873e-08,37629
+Early research setting,Distinct collaborator count,C(field)[T.Environmental Science],-0.022018800200757787,0.06816519235710405,0.7466792093007086,37629
+Early research setting,Distinct collaborator count,C(field)[T.Health Professions],-0.010449734366326353,0.08212635095657492,0.8987506643469195,37629
+Early research setting,Distinct collaborator count,C(field)[T.Immunology and Microbiology],-0.21064688177117116,0.12225239022068951,0.0848796302696985,37629
+Early research setting,Distinct collaborator count,C(field)[T.Materials Science],0.1640253382421467,0.08268163089283519,0.04727609148396115,37629
+Early research setting,Distinct collaborator count,C(field)[T.Mathematics],-0.5186923818480702,0.12078691432266381,1.7526410706541853e-05,37629
+Early research setting,Distinct collaborator count,C(field)[T.Medicine],-0.3098775964847467,0.04868381735795169,1.9515651855736538e-10,37629
+Early research setting,Distinct collaborator count,C(field)[T.Neuroscience],-0.07024562970011289,0.1014272043499185,0.48857826176167707,37629
+Early research setting,Distinct collaborator count,C(field)[T.Nursing],-0.11598083143835725,0.22513558322341382,0.6064412665444738,37629
+Early research setting,Distinct collaborator count,"C(field)[T.Pharmacology, Toxicology and Pharmaceutics]",0.16166592912726588,0.3302303179990649,0.6244487708726245,37629
+Early research setting,Distinct collaborator count,C(field)[T.Physics and Astronomy],-0.4916980986198363,0.07635659968646795,1.1987004336618986e-10,37629
+Early research setting,Distinct collaborator count,C(field)[T.Psychology],-0.09018441559393248,0.07396044297181797,0.2227075343279128,37629
+Early research setting,Distinct collaborator count,C(field)[T.Social Sciences],0.15636791744805362,0.06396697759426216,0.014504905301461375,37629
+Early research setting,Distinct collaborator count,C(field)[T.Veterinary],-0.9866447123301241,0.42397518549334057,0.019958430208907346,37629
+Early research setting,Distinct collaborator count,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[0]",-0.0560534394891148,0.11685641250529476,0.6314564390867814,37629
+Early research setting,Distinct collaborator count,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[1]",-0.20798291003031982,0.08040770725527943,0.009692687033098663,37629
+Early research setting,Distinct collaborator count,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[2]",-1.7946729062019366,0.1590595121096386,1.5917140123827e-29,37629
+Early research setting,Distinct collaborator count,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[3]",-0.2875056263496847,0.2989262395196432,0.33615281905930494,37629
+Early research setting,Distinct collaborator count,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[4]",-2.140092376814815,0.5938924380395745,0.0003139587606783281,37629
+Early research setting,Distinct collaborator count,"bs(age_years, df=4, degree=3)[0]",-0.013263598357799123,0.07562777714244108,0.860781067152913,37629
+Early research setting,Distinct collaborator count,"bs(age_years, df=4, degree=3)[1]",0.38820865624186474,0.10751352048704048,0.000305266729125647,37629
+Early research setting,Distinct collaborator count,"bs(age_years, df=4, degree=3)[2]",-0.2336628038197535,0.18419497925817416,0.20459722283373227,37629
+Early research setting,Distinct collaborator count,"bs(age_years, df=4, degree=3)[3]",0.337443980429281,0.17526917559314845,0.05419309558621274,37629
+Early research setting,Distinct collaborator count,"bs(pre_alpha, df=4, degree=3)[0]",0.23495906226915284,0.033518048048028076,2.3844289389765347e-12,37629
+Early research setting,Distinct collaborator count,"bs(pre_alpha, df=4, degree=3)[1]",0.4064515657645811,0.16566221834003705,0.014147517051726738,37629
+Early research setting,Distinct collaborator count,"bs(pre_alpha, df=4, degree=3)[2]",1.789796333599227,0.4419692821752004,5.130647704313049e-05,37629
+Early research setting,Distinct collaborator count,"bs(pre_alpha, df=4, degree=3)[3]",0.7947242565128992,0.5513095332501501,0.14943755567201578,37629
+Early research setting,Distinct collaborator count,country,-0.324004418621377,0.02806238835099378,7.746239728786107e-31,37629
+Early research setting,Distinct collaborator count,z_history,-0.16404271852045496,0.018704704869861647,1.7845798716309324e-18,37629
+Early research setting,Distinct collaborator count,z_recent,0.04082020554908306,0.016143300577709456,0.011451329056033611,37629
+Early research setting,Distinct collaborator count,z_early_n,-0.26176590776348785,0.02028361044465195,4.2022167249449907e-38,37629
+Early research setting,Distinct collaborator count,z_collaborators,0.4321270172384105,0.03207860887318919,2.320905444790288e-41,37629
+Early research setting,Distinct collaborator count,z_team,-0.2674630552704714,0.029515622557466117,1.283796314582926e-19,37629
+Early research setting,Mean team size,Intercept,0.19494637262316256,0.10418937853818418,0.06133437871708956,37629
+Early research setting,Mean team size,C(field)[T.Arts and Humanities],-0.05711595591515121,0.10015912119936708,0.5685066784208401,37629
+Early research setting,Mean team size,"C(field)[T.Biochemistry, Genetics and Molecular Biology]",0.013600232290294294,0.06045453173548145,0.8220054914108716,37629
+Early research setting,Mean team size,"C(field)[T.Business, Management and Accounting]",0.5828647075867839,0.08045155180653467,4.3270838406752035e-13,37629
+Early research setting,Mean team size,C(field)[T.Chemical Engineering],0.4008330933610784,0.1950793658560388,0.03990624592447327,37629
+Early research setting,Mean team size,C(field)[T.Chemistry],-0.05403550328417951,0.10499116583579167,0.606785637860705,37629
+Early research setting,Mean team size,C(field)[T.Computer Science],0.2965967095282108,0.060013402885944575,7.725601886282959e-07,37629
+Early research setting,Mean team size,C(field)[T.Decision Sciences],-0.09710907328428169,0.12919831840274626,0.45227480183107815,37629
+Early research setting,Mean team size,C(field)[T.Dentistry],-0.3269889307528899,0.13101175744742982,0.01256469756741949,37629
+Early research setting,Mean team size,C(field)[T.Earth and Planetary Sciences],-0.18941936444008217,0.09077354277432156,0.03691305647057929,37629
+Early research setting,Mean team size,"C(field)[T.Economics, Econometrics and Finance]",0.15338021190436268,0.09181738148837608,0.09482203795910085,37629
+Early research setting,Mean team size,C(field)[T.Energy],0.35618619137244195,0.13427549379722087,0.00798621009140834,37629
+Early research setting,Mean team size,C(field)[T.Engineering],0.27703449547715003,0.051835089746839064,9.064903417663873e-08,37629
+Early research setting,Mean team size,C(field)[T.Environmental Science],-0.022018800200757787,0.06816519235710405,0.7466792093007086,37629
+Early research setting,Mean team size,C(field)[T.Health Professions],-0.010449734366326353,0.08212635095657492,0.8987506643469195,37629
+Early research setting,Mean team size,C(field)[T.Immunology and Microbiology],-0.21064688177117116,0.12225239022068951,0.0848796302696985,37629
+Early research setting,Mean team size,C(field)[T.Materials Science],0.1640253382421467,0.08268163089283519,0.04727609148396115,37629
+Early research setting,Mean team size,C(field)[T.Mathematics],-0.5186923818480702,0.12078691432266381,1.7526410706541853e-05,37629
+Early research setting,Mean team size,C(field)[T.Medicine],-0.3098775964847467,0.04868381735795169,1.9515651855736538e-10,37629
+Early research setting,Mean team size,C(field)[T.Neuroscience],-0.07024562970011289,0.1014272043499185,0.48857826176167707,37629
+Early research setting,Mean team size,C(field)[T.Nursing],-0.11598083143835725,0.22513558322341382,0.6064412665444738,37629
+Early research setting,Mean team size,"C(field)[T.Pharmacology, Toxicology and Pharmaceutics]",0.16166592912726588,0.3302303179990649,0.6244487708726245,37629
+Early research setting,Mean team size,C(field)[T.Physics and Astronomy],-0.4916980986198363,0.07635659968646795,1.1987004336618986e-10,37629
+Early research setting,Mean team size,C(field)[T.Psychology],-0.09018441559393248,0.07396044297181797,0.2227075343279128,37629
+Early research setting,Mean team size,C(field)[T.Social Sciences],0.15636791744805362,0.06396697759426216,0.014504905301461375,37629
+Early research setting,Mean team size,C(field)[T.Veterinary],-0.9866447123301241,0.42397518549334057,0.019958430208907346,37629
+Early research setting,Mean team size,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[0]",-0.0560534394891148,0.11685641250529476,0.6314564390867814,37629
+Early research setting,Mean team size,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[1]",-0.20798291003031982,0.08040770725527943,0.009692687033098663,37629
+Early research setting,Mean team size,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[2]",-1.7946729062019366,0.1590595121096386,1.5917140123827e-29,37629
+Early research setting,Mean team size,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[3]",-0.2875056263496847,0.2989262395196432,0.33615281905930494,37629
+Early research setting,Mean team size,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[4]",-2.140092376814815,0.5938924380395745,0.0003139587606783281,37629
+Early research setting,Mean team size,"bs(age_years, df=4, degree=3)[0]",-0.013263598357799123,0.07562777714244108,0.860781067152913,37629
+Early research setting,Mean team size,"bs(age_years, df=4, degree=3)[1]",0.38820865624186474,0.10751352048704048,0.000305266729125647,37629
+Early research setting,Mean team size,"bs(age_years, df=4, degree=3)[2]",-0.2336628038197535,0.18419497925817416,0.20459722283373227,37629
+Early research setting,Mean team size,"bs(age_years, df=4, degree=3)[3]",0.337443980429281,0.17526917559314845,0.05419309558621274,37629
+Early research setting,Mean team size,"bs(pre_alpha, df=4, degree=3)[0]",0.23495906226915284,0.033518048048028076,2.3844289389765347e-12,37629
+Early research setting,Mean team size,"bs(pre_alpha, df=4, degree=3)[1]",0.4064515657645811,0.16566221834003705,0.014147517051726738,37629
+Early research setting,Mean team size,"bs(pre_alpha, df=4, degree=3)[2]",1.789796333599227,0.4419692821752004,5.130647704313049e-05,37629
+Early research setting,Mean team size,"bs(pre_alpha, df=4, degree=3)[3]",0.7947242565128992,0.5513095332501501,0.14943755567201578,37629
+Early research setting,Mean team size,country,-0.324004418621377,0.02806238835099378,7.746239728786107e-31,37629
+Early research setting,Mean team size,z_history,-0.16404271852045496,0.018704704869861647,1.7845798716309324e-18,37629
+Early research setting,Mean team size,z_recent,0.04082020554908306,0.016143300577709456,0.011451329056033611,37629
+Early research setting,Mean team size,z_early_n,-0.26176590776348785,0.02028361044465195,4.2022167249449907e-38,37629
+Early research setting,Mean team size,z_collaborators,0.4321270172384105,0.03207860887318919,2.320905444790288e-41,37629
+Early research setting,Mean team size,z_team,-0.2674630552704714,0.029515622557466117,1.283796314582926e-19,37629
+Historical knowledge practice,age_mean,Intercept,0.27803099118537666,0.39029555362932483,0.4762417981510979,21681
+Historical knowledge practice,age_mean,C(field)[T.Arts and Humanities],-0.044143462609229016,0.1478802847777298,0.7653153960381289,21681
+Historical knowledge practice,age_mean,"C(field)[T.Biochemistry, Genetics and Molecular Biology]",0.06602219667534184,0.08102088223014187,0.4151417077677513,21681
+Historical knowledge practice,age_mean,"C(field)[T.Business, Management and Accounting]",0.4373780165093622,0.1113703059157147,8.59259196785882e-05,21681
+Historical knowledge practice,age_mean,C(field)[T.Chemical Engineering],0.2281240481931468,0.24821400052666218,0.3580631597463967,21681
+Historical knowledge practice,age_mean,C(field)[T.Chemistry],-0.09274591938249843,0.1345639850054521,0.49067674520865945,21681
+Historical knowledge practice,age_mean,C(field)[T.Computer Science],0.15552324598516845,0.08267990315029737,0.05996805558030722,21681
+Historical knowledge practice,age_mean,C(field)[T.Decision Sciences],-0.22809077182592036,0.1653088585026482,0.16765268753529228,21681
+Historical knowledge practice,age_mean,C(field)[T.Dentistry],-0.39072251940899194,0.180915265427297,0.03079597799448413,21681
+Historical knowledge practice,age_mean,C(field)[T.Earth and Planetary Sciences],0.012763012179222695,0.1201731387049288,0.9154195456207627,21681
+Historical knowledge practice,age_mean,"C(field)[T.Economics, Econometrics and Finance]",0.03224423018638102,0.1229828850114909,0.7931790524701764,21681
+Historical knowledge practice,age_mean,C(field)[T.Energy],0.32361937877481833,0.17710582384322163,0.06765984537292564,21681
+Historical knowledge practice,age_mean,C(field)[T.Engineering],0.21108854463734728,0.07315714775645372,0.003909011743569012,21681
+Historical knowledge practice,age_mean,C(field)[T.Environmental Science],-0.1542139187892653,0.0918668915108511,0.09321696161398003,21681
+Historical knowledge practice,age_mean,C(field)[T.Health Professions],-0.11821190145341091,0.1119971284922845,0.29120106715094174,21681
+Historical knowledge practice,age_mean,C(field)[T.Immunology and Microbiology],-0.32162833903437377,0.16236963778065525,0.04760917405080565,21681
+Historical knowledge practice,age_mean,C(field)[T.Materials Science],0.1013252506448674,0.10745209399960452,0.34569077569802853,21681
+Historical knowledge practice,age_mean,C(field)[T.Mathematics],-0.38893928377405773,0.14991862946965148,0.009477384157783538,21681
+Historical knowledge practice,age_mean,C(field)[T.Medicine],-0.321487177726066,0.06848219902473347,2.6730744611916538e-06,21681
+Historical knowledge practice,age_mean,C(field)[T.Neuroscience],-0.06315609987576509,0.12945888291700394,0.6256583696372845,21681
+Historical knowledge practice,age_mean,C(field)[T.Nursing],-0.05368365241199556,0.29007517769180197,0.8531756477893462,21681
+Historical knowledge practice,age_mean,"C(field)[T.Pharmacology, Toxicology and Pharmaceutics]",0.0902598017628973,0.4459094017977749,0.8395904617429861,21681
+Historical knowledge practice,age_mean,C(field)[T.Physics and Astronomy],-0.39075355944883156,0.10066404543387616,0.00010370364483675937,21681
+Historical knowledge practice,age_mean,C(field)[T.Psychology],-0.11541437931552377,0.09590006740303549,0.22878834291596262,21681
+Historical knowledge practice,age_mean,C(field)[T.Social Sciences],-0.06616832258910965,0.09025616326465016,0.46348710656906045,21681
+Historical knowledge practice,age_mean,C(field)[T.Veterinary],-0.473846774686997,0.4898655202412978,0.3333942296469643,21681
+Historical knowledge practice,age_mean,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[0]",-0.08499048375171744,0.15347284880028414,0.5797281260921217,21681
+Historical knowledge practice,age_mean,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[1]",-0.15835377655379929,0.105436032648483,0.13312440868802497,21681
+Historical knowledge practice,age_mean,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[2]",-1.8258220021951173,0.22234705201700672,2.1828526892675341e-16,21681
+Historical knowledge practice,age_mean,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[3]",-0.00028368931091134116,0.4528954867057242,0.9995002129341466,21681
+Historical knowledge practice,age_mean,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[4]",-2.229252445683604,1.1086137133999134,0.04434163083484509,21681
+Historical knowledge practice,age_mean,"bs(age_years, df=4, degree=3)[0]",-0.004732749032013732,0.14561422877311897,0.9740717464693776,21681
+Historical knowledge practice,age_mean,"bs(age_years, df=4, degree=3)[1]",0.127479517222978,0.15121959987918732,0.39922328627247083,21681
+Historical knowledge practice,age_mean,"bs(age_years, df=4, degree=3)[2]",-0.23873675739550293,0.2782941791675344,0.390971137457784,21681
+Historical knowledge practice,age_mean,"bs(age_years, df=4, degree=3)[3]",0.3324251076819228,0.2523166822788588,0.18767389722725225,21681
+Historical knowledge practice,age_mean,"bs(pre_alpha, df=4, degree=3)[0]",0.27543823509554405,0.04752449813739315,6.803251556210237e-09,21681
+Historical knowledge practice,age_mean,"bs(pre_alpha, df=4, degree=3)[1]",0.7596040933213449,0.24083055712593382,0.00160992917461763,21681
+Historical knowledge practice,age_mean,"bs(pre_alpha, df=4, degree=3)[2]",0.913933014595067,0.8252980751125024,0.26812211185098034,21681
+Historical knowledge practice,age_mean,"bs(pre_alpha, df=4, degree=3)[3]",3.9612994724072794,1.8645750419367237,0.03362791721464991,21681
+Historical knowledge practice,age_mean,country,-0.3174664670606992,0.03630172660681958,2.2258796664234825e-18,21681
+Historical knowledge practice,age_mean,z_history,-0.1298970322950147,0.1418327555299769,0.359747412187412,21681
+Historical knowledge practice,age_mean,z_recent,0.035565253132418324,0.023217167786414854,0.12555908586795522,21681
+Historical knowledge practice,age_mean,z_early_n,-0.24256859215528356,0.02895989250619218,5.474836202671287e-17,21681
+Historical knowledge practice,age_mean,z_collaborators,0.3313774272993784,0.04261850222472396,7.518811313491448e-15,21681
+Historical knowledge practice,age_mean,z_team,-0.2383258152537859,0.03899200227736821,9.828431515771194e-10,21681
+Historical knowledge practice,age_mean,log_pre2023_n,-0.02606298049729355,0.13272472557304255,0.8443216008718915,21681
+Historical knowledge practice,age_mean,log_reference_budget,-0.011532910051823355,0.03684544840184123,0.7542747916837836,21681
+Historical knowledge practice,age_mean,history_age_mean,-0.191199567769636,0.016686038738812865,2.1279266566840615e-30,21681
+Historical knowledge practice,age_median,Intercept,0.31546387880462834,0.3899157660614541,0.41848265714923494,21681
+Historical knowledge practice,age_median,C(field)[T.Arts and Humanities],-0.06862120721972917,0.14743713334901526,0.6416257775914186,21681
+Historical knowledge practice,age_median,"C(field)[T.Biochemistry, Genetics and Molecular Biology]",0.09074541235031819,0.08082305552939315,0.26153671240579324,21681
+Historical knowledge practice,age_median,"C(field)[T.Business, Management and Accounting]",0.4528734702503468,0.11128012972255577,4.7079658423723246e-05,21681
+Historical knowledge practice,age_median,C(field)[T.Chemical Engineering],0.22621721136080755,0.2477051344001155,0.36111001676955057,21681
+Historical knowledge practice,age_median,C(field)[T.Chemistry],-0.09432804733746464,0.13393195088150525,0.48124701541838777,21681
+Historical knowledge practice,age_median,C(field)[T.Computer Science],0.18054387563145044,0.08251261475747998,0.028664063627950542,21681
+Historical knowledge practice,age_median,C(field)[T.Decision Sciences],-0.23268111786523948,0.16482889833289102,0.15805232115423318,21681
+Historical knowledge practice,age_median,C(field)[T.Dentistry],-0.3712606207216912,0.18043677998872687,0.039631793511431694,21681
+Historical knowledge practice,age_median,C(field)[T.Earth and Planetary Sciences],-0.04553066236567024,0.11972186174790861,0.703720017988025,21681
+Historical knowledge practice,age_median,"C(field)[T.Economics, Econometrics and Finance]",0.036025692514763015,0.12267207391817571,0.7690064388401845,21681
+Historical knowledge practice,age_median,C(field)[T.Energy],0.35411839683889346,0.17676899321457776,0.045146873922712265,21681
+Historical knowledge practice,age_median,C(field)[T.Engineering],0.2220858284036274,0.07299207027585398,0.0023454221409279696,21681
+Historical knowledge practice,age_median,C(field)[T.Environmental Science],-0.15617686663391517,0.09164578878382151,0.08835572577345936,21681
+Historical knowledge practice,age_median,C(field)[T.Health Professions],-0.08454975302605892,0.11181166405021259,0.4495412345199037,21681
+Historical knowledge practice,age_median,C(field)[T.Immunology and Microbiology],-0.2967182553603223,0.16194160911002414,0.06691350026851513,21681
+Historical knowledge practice,age_median,C(field)[T.Materials Science],0.09799974873594607,0.10712250184283281,0.36027661679186695,21681
+Historical knowledge practice,age_median,C(field)[T.Mathematics],-0.421999368635035,0.14947819610512264,0.0047554317613071355,21681
+Historical knowledge practice,age_median,C(field)[T.Medicine],-0.2889924670384735,0.06814425924669658,2.226329110741413e-05,21681
+Historical knowledge practice,age_median,C(field)[T.Neuroscience],-0.05841095304990966,0.12961654411786364,0.6522459537193486,21681
+Historical knowledge practice,age_median,C(field)[T.Nursing],-0.017246769855306175,0.28975856182970267,0.9525370007443256,21681
+Historical knowledge practice,age_median,"C(field)[T.Pharmacology, Toxicology and Pharmaceutics]",0.11865087050163199,0.44249597979458827,0.7885915598938813,21681
+Historical knowledge practice,age_median,C(field)[T.Physics and Astronomy],-0.4187279749057988,0.10052441345389804,3.107585791147638e-05,21681
+Historical knowledge practice,age_median,C(field)[T.Psychology],-0.10729299104140802,0.09586530627263341,0.2630524217567627,21681
+Historical knowledge practice,age_median,C(field)[T.Social Sciences],-0.06118905694172682,0.09017845768730441,0.4974338251159415,21681
+Historical knowledge practice,age_median,C(field)[T.Veterinary],-0.4559626543435501,0.4904574819482005,0.3525429781260402,21681
+Historical knowledge practice,age_median,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[0]",-0.08932747834421945,0.15318499039608408,0.5598026481336382,21681
+Historical knowledge practice,age_median,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[1]",-0.15435809147423094,0.1052986302412537,0.1426733858159354,21681
+Historical knowledge practice,age_median,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[2]",-1.8583507902306398,0.22183562826650768,5.42237729022172e-17,21681
+Historical knowledge practice,age_median,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[3]",0.029644085788984084,0.45183794354266865,0.9476900924618329,21681
+Historical knowledge practice,age_median,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[4]",-2.2998622242319877,1.1014097709636046,0.03678812057744812,21681
+Historical knowledge practice,age_median,"bs(age_years, df=4, degree=3)[0]",-0.014699064917144613,0.14560896758896816,0.9195910257971287,21681
+Historical knowledge practice,age_median,"bs(age_years, df=4, degree=3)[1]",0.1453570901333873,0.15117321940483408,0.33628739606138025,21681
+Historical knowledge practice,age_median,"bs(age_years, df=4, degree=3)[2]",-0.2597994357881668,0.2780149104927329,0.3500562325376917,21681
+Historical knowledge practice,age_median,"bs(age_years, df=4, degree=3)[3]",0.3377154929182162,0.25164468741082946,0.17958527262711443,21681
+Historical knowledge practice,age_median,"bs(pre_alpha, df=4, degree=3)[0]",0.288235906674865,0.047424023163654544,1.2180769456096658e-09,21681
+Historical knowledge practice,age_median,"bs(pre_alpha, df=4, degree=3)[1]",0.817844801026741,0.24109355053323944,0.0006932619238841568,21681
+Historical knowledge practice,age_median,"bs(pre_alpha, df=4, degree=3)[2]",0.9104505616142701,0.8289800447983644,0.272083107049672,21681
+Historical knowledge practice,age_median,"bs(pre_alpha, df=4, degree=3)[3]",4.0494761070594585,1.875284257397435,0.030819673616033206,21681
+Historical knowledge practice,age_median,country,-0.32567726362515664,0.036279568229324974,2.7855809128966874e-19,21681
+Historical knowledge practice,age_median,z_history,-0.13070915171834308,0.14172571565989858,0.3563885826916041,21681
+Historical knowledge practice,age_median,z_recent,0.035762320451396615,0.023186037654015158,0.12297457840387967,21681
+Historical knowledge practice,age_median,z_early_n,-0.24412618329110614,0.028944965088580778,3.336180056959949e-17,21681
+Historical knowledge practice,age_median,z_collaborators,0.3382788444437186,0.04259161256365345,1.9833547776779462e-15,21681
+Historical knowledge practice,age_median,z_team,-0.23322155691197352,0.03891186481523555,2.052651981162239e-09,21681
+Historical knowledge practice,age_median,log_pre2023_n,-0.030682637763818098,0.13261049557695898,0.8170241628351168,21681
+Historical knowledge practice,age_median,log_reference_budget,-0.02289780301280394,0.03678586184111782,0.5336380896403983,21681
+Historical knowledge practice,age_median,history_age_median,-0.14591647436220348,0.016018178577594994,8.281601987583327e-20,21681
+Historical knowledge practice,old20,Intercept,0.2912500927581607,0.3903621528731132,0.4556056314034681,21681
+Historical knowledge practice,old20,C(field)[T.Arts and Humanities],-0.03773543050345651,0.14759263532937625,0.7982034569474121,21681
+Historical knowledge practice,old20,"C(field)[T.Biochemistry, Genetics and Molecular Biology]",0.0713753676530876,0.08103972524540785,0.37845562178468195,21681
+Historical knowledge practice,old20,"C(field)[T.Business, Management and Accounting]",0.46035087331924757,0.11147215882866589,3.631759760057406e-05,21681
+Historical knowledge practice,old20,C(field)[T.Chemical Engineering],0.24814467486010927,0.24769773902237652,0.3164380911637994,21681
+Historical knowledge practice,old20,C(field)[T.Chemistry],-0.06964507122871724,0.13490936647923493,0.6056895921276146,21681
+Historical knowledge practice,old20,C(field)[T.Computer Science],0.180537862095666,0.08245153411312929,0.028551513310065404,21681
+Historical knowledge practice,old20,C(field)[T.Decision Sciences],-0.20311614578659967,0.16629688823713054,0.22193204367159858,21681
+Historical knowledge practice,old20,C(field)[T.Dentistry],-0.38931903076085655,0.18143753785283864,0.03189317876367001,21681
+Historical knowledge practice,old20,C(field)[T.Earth and Planetary Sciences],0.023757837234947947,0.12001843793573322,0.8430829617959509,21681
+Historical knowledge practice,old20,"C(field)[T.Economics, Econometrics and Finance]",0.059192621679816225,0.12309150282311743,0.6305995949182484,21681
+Historical knowledge practice,old20,C(field)[T.Energy],0.3365115004948447,0.1767075646146763,0.05686575817718098,21681
+Historical knowledge practice,old20,C(field)[T.Engineering],0.22799366892613795,0.07306774618945198,0.0018066374322573155,21681
+Historical knowledge practice,old20,C(field)[T.Environmental Science],-0.15468649185270078,0.09187408036721459,0.09224365438792399,21681
+Historical knowledge practice,old20,C(field)[T.Health Professions],-0.12546380913406593,0.11226143659841006,0.2637362413149189,21681
+Historical knowledge practice,old20,C(field)[T.Immunology and Microbiology],-0.31466742013519294,0.16239953442701419,0.05267047701321174,21681
+Historical knowledge practice,old20,C(field)[T.Materials Science],0.11864033783725887,0.10749111576184199,0.2697136339417079,21681
+Historical knowledge practice,old20,C(field)[T.Mathematics],-0.34545273737465554,0.15009421395526334,0.021359284136212058,21681
+Historical knowledge practice,old20,C(field)[T.Medicine],-0.31843632908129244,0.06845782388571278,3.2941813387388715e-06,21681
+Historical knowledge practice,old20,C(field)[T.Neuroscience],-0.052592161686746595,0.12948294161930005,0.6846172680680135,21681
+Historical knowledge practice,old20,C(field)[T.Nursing],-0.058118394950125433,0.29054130657652855,0.8414533032790366,21681
+Historical knowledge practice,old20,"C(field)[T.Pharmacology, Toxicology and Pharmaceutics]",0.10965475682914115,0.44436590018668165,0.8050886960021351,21681
+Historical knowledge practice,old20,C(field)[T.Physics and Astronomy],-0.34076580493009273,0.10068354736137164,0.0007130198521365216,21681
+Historical knowledge practice,old20,C(field)[T.Psychology],-0.10350996012202188,0.0959505880393519,0.2806840246387772,21681
+Historical knowledge practice,old20,C(field)[T.Social Sciences],-0.057302847006489716,0.09032651655663071,0.5258219411481919,21681
+Historical knowledge practice,old20,C(field)[T.Veterinary],-0.44422094541757073,0.4879131942683432,0.3625848310611368,21681
+Historical knowledge practice,old20,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[0]",-0.08356112021174687,0.15354126533402357,0.5862860897240263,21681
+Historical knowledge practice,old20,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[1]",-0.15527661550441735,0.10551262303531742,0.141118069413136,21681
+Historical knowledge practice,old20,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[2]",-1.8242184296548447,0.22242908666371936,2.3770555961330924e-16,21681
+Historical knowledge practice,old20,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[3]",-0.010252338744585025,0.45300758862484203,0.9819440452037109,21681
+Historical knowledge practice,old20,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[4]",-2.175925911507644,1.1094404886578713,0.04984610947445739,21681
+Historical knowledge practice,old20,"bs(age_years, df=4, degree=3)[0]",-0.028307873180676145,0.14561477413936202,0.8458607484024567,21681
+Historical knowledge practice,old20,"bs(age_years, df=4, degree=3)[1]",0.08883626671350847,0.15130504474882425,0.5571140225313673,21681
+Historical knowledge practice,old20,"bs(age_years, df=4, degree=3)[2]",-0.24555298417132018,0.27865360470713413,0.37820292260207955,21681
+Historical knowledge practice,old20,"bs(age_years, df=4, degree=3)[3]",0.29553324041724455,0.2526343929574834,0.24207902986907281,21681
+Historical knowledge practice,old20,"bs(pre_alpha, df=4, degree=3)[0]",0.2751543341173469,0.04755204216244902,7.191808545179095e-09,21681
+Historical knowledge practice,old20,"bs(pre_alpha, df=4, degree=3)[1]",0.7383810150314875,0.24151135452184427,0.0022331486266771107,21681
+Historical knowledge practice,old20,"bs(pre_alpha, df=4, degree=3)[2]",0.9391719513490983,0.8311806810418941,0.25850776764856065,21681
+Historical knowledge practice,old20,"bs(pre_alpha, df=4, degree=3)[3]",3.920913057066092,1.8973102511031392,0.038775256199777106,21681
+Historical knowledge practice,old20,country,-0.31341142086283025,0.0363529075214591,6.616484526110404e-18,21681
+Historical knowledge practice,old20,z_history,-0.12225091988661686,0.14187213914526844,0.38885379890133764,21681
+Historical knowledge practice,old20,z_recent,0.035738869789837154,0.023214647984257267,0.12368312676066974,21681
+Historical knowledge practice,old20,z_early_n,-0.24160671819507665,0.02897178127348574,7.468051685078087e-17,21681
+Historical knowledge practice,old20,z_collaborators,0.3273176958866011,0.04260085694569707,1.5496999700454366e-14,21681
+Historical knowledge practice,old20,z_team,-0.23604241160300202,0.03896782840127773,1.3836823907279405e-09,21681
+Historical knowledge practice,old20,log_pre2023_n,-0.028157143150014125,0.1327778194271043,0.8320585874672467,21681
+Historical knowledge practice,old20,log_reference_budget,-0.010534397788189922,0.03687464211643518,0.7751221850563986,21681
+Historical knowledge practice,old20,history_old20,-0.2022482176136863,0.01647862465399688,1.2590562442210283e-34,21681
+Historical knowledge practice,variety,Intercept,0.6253244556753119,0.39822217920570663,0.11634757204097156,21681
+Historical knowledge practice,variety,C(field)[T.Arts and Humanities],-0.11337853633666245,0.14732955460372632,0.44156253403601176,21681
+Historical knowledge practice,variety,"C(field)[T.Biochemistry, Genetics and Molecular Biology]",0.15255123997682177,0.08052315048370506,0.05815845799733694,21681
+Historical knowledge practice,variety,"C(field)[T.Business, Management and Accounting]",0.4617697365234187,0.11112586005232133,3.247529755503197e-05,21681
+Historical knowledge practice,variety,C(field)[T.Chemical Engineering],0.29296274541618716,0.24681669150687402,0.23524147242241722,21681
+Historical knowledge practice,variety,C(field)[T.Chemistry],-0.0665104297900209,0.13346072191812022,0.6182358985675604,21681
+Historical knowledge practice,variety,C(field)[T.Computer Science],0.29159327937410995,0.08253572045656828,0.0004109745600934039,21681
+Historical knowledge practice,variety,C(field)[T.Decision Sciences],-0.22748612606464286,0.16414535219718285,0.1657828690258425,21681
+Historical knowledge practice,variety,C(field)[T.Dentistry],-0.3267971641635793,0.17963476568544617,0.06887616996785649,21681
+Historical knowledge practice,variety,C(field)[T.Earth and Planetary Sciences],-0.07886514713075377,0.11946936567699623,0.5091712958063894,21681
+Historical knowledge practice,variety,"C(field)[T.Economics, Econometrics and Finance]",0.05917877861803842,0.12236571347563831,0.6286539988047057,21681
+Historical knowledge practice,variety,C(field)[T.Energy],0.5024049884784906,0.17603452053586022,0.004317062697314806,21681
+Historical knowledge practice,variety,C(field)[T.Engineering],0.3247373143959857,0.07308245683370844,8.853296642389619e-06,21681
+Historical knowledge practice,variety,C(field)[T.Environmental Science],-0.1402576418554418,0.09135395635369427,0.12470501375433232,21681
+Historical knowledge practice,variety,C(field)[T.Health Professions],-0.04182092336341843,0.11134327428463285,0.7072116894316031,21681
+Historical knowledge practice,variety,C(field)[T.Immunology and Microbiology],-0.21872167382363183,0.16160883270701842,0.1759273249707698,21681
+Historical knowledge practice,variety,C(field)[T.Materials Science],0.16844506537285142,0.1069471789524507,0.11524941188310991,21681
+Historical knowledge practice,variety,C(field)[T.Mathematics],-0.4585478913874366,0.14843675357677089,0.0020070960876635915,21681
+Historical knowledge practice,variety,C(field)[T.Medicine],-0.21946152754247947,0.067835504084292,0.0012155689400745958,21681
+Historical knowledge practice,variety,C(field)[T.Neuroscience],-0.05685445602162581,0.12952592491630743,0.660703073547448,21681
+Historical knowledge practice,variety,C(field)[T.Nursing],0.030424327280309298,0.2899984958391807,0.9164456229822,21681
+Historical knowledge practice,variety,"C(field)[T.Pharmacology, Toxicology and Pharmaceutics]",0.1595942295955524,0.43103542051832117,0.7111904083379961,21681
+Historical knowledge practice,variety,C(field)[T.Physics and Astronomy],-0.3007403951313616,0.10321119899361347,0.0035701865001973435,21681
+Historical knowledge practice,variety,C(field)[T.Psychology],-0.11213476264725018,0.09574461828029358,0.24152399563802263,21681
+Historical knowledge practice,variety,C(field)[T.Social Sciences],-0.05610809479334908,0.09017144148157573,0.5337854015591939,21681
+Historical knowledge practice,variety,C(field)[T.Veterinary],-0.4838971736667884,0.4942273606255735,0.3275314064834247,21681
+Historical knowledge practice,variety,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[0]",-0.09709309662155241,0.15238470439242535,0.5240220896953978,21681
+Historical knowledge practice,variety,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[1]",-0.1439133320129633,0.10483617699061511,0.16983165149499047,21681
+Historical knowledge practice,variety,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[2]",-1.9043962100540193,0.22103818421378293,6.952235056573558e-18,21681
+Historical knowledge practice,variety,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[3]",0.10055407884607871,0.4505404508537597,0.8233911659389588,21681
+Historical knowledge practice,variety,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[4]",-2.553312137305669,1.1087610842558586,0.021287199191692856,21681
+Historical knowledge practice,variety,"bs(age_years, df=4, degree=3)[0]",-0.10166249854779466,0.1451469801725647,0.4836708535190425,21681
+Historical knowledge practice,variety,"bs(age_years, df=4, degree=3)[1]",0.07689255448273352,0.15079296628093125,0.6101065566283966,21681
+Historical knowledge practice,variety,"bs(age_years, df=4, degree=3)[2]",-0.41403144632904054,0.277330017708595,0.13545820820919818,21681
+Historical knowledge practice,variety,"bs(age_years, df=4, degree=3)[3]",0.25065310903461974,0.25106210678986934,0.31809952453489854,21681
+Historical knowledge practice,variety,"bs(pre_alpha, df=4, degree=3)[0]",0.3120756136294378,0.04722022069216116,3.8708109174145406e-11,21681
+Historical knowledge practice,variety,"bs(pre_alpha, df=4, degree=3)[1]",0.8420647936842437,0.2400697694397836,0.00045219619312787836,21681
+Historical knowledge practice,variety,"bs(pre_alpha, df=4, degree=3)[2]",0.9936758062289773,0.8194220027560744,0.22526192989965876,21681
+Historical knowledge practice,variety,"bs(pre_alpha, df=4, degree=3)[3]",4.0436941265518636,1.839360383653216,0.027918900534422596,21681
+Historical knowledge practice,variety,country,-0.34402877631792195,0.036248658848679956,2.2926760464640806e-21,21681
+Historical knowledge practice,variety,z_history,-0.10778075999205147,0.14125511534342458,0.4454502782416593,21681
+Historical knowledge practice,variety,z_recent,0.037349789339447194,0.023163452104002454,0.10686516914888085,21681
+Historical knowledge practice,variety,z_early_n,-0.250377004952774,0.02895762178226063,5.318456901498925e-18,21681
+Historical knowledge practice,variety,z_collaborators,0.36159258744499595,0.042565783519370695,1.9808284449820627e-17,21681
+Historical knowledge practice,variety,z_team,-0.21541616048056283,0.03889352921163636,3.0487856618142094e-08,21681
+Historical knowledge practice,variety,log_pre2023_n,-0.044687089774059975,0.13211326844994598,0.7351760729639623,21681
+Historical knowledge practice,variety,log_reference_budget,-0.09655319351642996,0.04321319911847079,0.025460384418841964,21681
+Historical knowledge practice,variety,history_variety,0.06251415375528115,0.01895239253306891,0.0009720859840994727,21681
+Historical knowledge practice,balance,Intercept,0.7249057232645398,0.41229475766007945,0.07870973926441957,21681
+Historical knowledge practice,balance,C(field)[T.Arts and Humanities],-0.11300942759555893,0.14740721571066484,0.4432909071662502,21681
+Historical knowledge practice,balance,"C(field)[T.Biochemistry, Genetics and Molecular Biology]",0.15261325928262554,0.08051636220805673,0.058035242204562756,21681
+Historical knowledge practice,balance,"C(field)[T.Business, Management and Accounting]",0.4612056656078641,0.11113049992063685,3.322911490434681e-05,21681
+Historical knowledge practice,balance,C(field)[T.Chemical Engineering],0.29507883024888665,0.2466476862971726,0.23155704589586945,21681
+Historical knowledge practice,balance,C(field)[T.Chemistry],-0.06424442901542722,0.13347588359119078,0.6302900604560604,21681
+Historical knowledge practice,balance,C(field)[T.Computer Science],0.29451051882019047,0.08259429588412984,0.0003628186482683815,21681
+Historical knowledge practice,balance,C(field)[T.Decision Sciences],-0.22709699896382032,0.16412119130179775,0.1664456552206376,21681
+Historical knowledge practice,balance,C(field)[T.Dentistry],-0.3309706396366459,0.17976472642084473,0.06560217706823634,21681
+Historical knowledge practice,balance,C(field)[T.Earth and Planetary Sciences],-0.08373375419322196,0.1196506403858396,0.48404054229706606,21681
+Historical knowledge practice,balance,"C(field)[T.Economics, Econometrics and Finance]",0.06353946275631063,0.12240196686343921,0.6036875801959287,21681
+Historical knowledge practice,balance,C(field)[T.Energy],0.5039289214902145,0.1759059163138792,0.004173202433136378,21681
+Historical knowledge practice,balance,C(field)[T.Engineering],0.32465364369103883,0.07307250243835288,8.875542445683436e-06,21681
+Historical knowledge practice,balance,C(field)[T.Environmental Science],-0.14068783730809,0.0913635905574033,0.12359261817343868,21681
+Historical knowledge practice,balance,C(field)[T.Health Professions],-0.042223230105750395,0.11131953124614105,0.7044668878649689,21681
+Historical knowledge practice,balance,C(field)[T.Immunology and Microbiology],-0.22135319179788362,0.16157870284647607,0.17070550905674586,21681
+Historical knowledge practice,balance,C(field)[T.Materials Science],0.16980603050359777,0.10694334928290251,0.11232865157019369,21681
+Historical knowledge practice,balance,C(field)[T.Mathematics],-0.455130942462816,0.1485232089223837,0.0021812464745305724,21681
+Historical knowledge practice,balance,C(field)[T.Medicine],-0.22123475450832406,0.06785906816456308,0.0011133008743296514,21681
+Historical knowledge practice,balance,C(field)[T.Neuroscience],-0.06157043177124211,0.12961499296578718,0.6347687707802492,21681
+Historical knowledge practice,balance,C(field)[T.Nursing],0.030701627941948535,0.2899832431492769,0.9156824816347024,21681
+Historical knowledge practice,balance,"C(field)[T.Pharmacology, Toxicology and Pharmaceutics]",0.15831354034998815,0.4308385041823601,0.7132800370313277,21681
+Historical knowledge practice,balance,C(field)[T.Physics and Astronomy],-0.30629019185957235,0.10328062888766228,0.0030208209622935825,21681
+Historical knowledge practice,balance,C(field)[T.Psychology],-0.11384363413331496,0.09577256514897886,0.2345627307499667,21681
+Historical knowledge practice,balance,C(field)[T.Social Sciences],-0.05733040712671906,0.09020583730117328,0.5250691371266789,21681
+Historical knowledge practice,balance,C(field)[T.Veterinary],-0.4848546664836331,0.49450115619704504,0.32684307836528925,21681
+Historical knowledge practice,balance,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[0]",-0.09600532590033792,0.1523714879047513,0.5286461137315859,21681
+Historical knowledge practice,balance,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[1]",-0.1447326001856678,0.10484051857718887,0.1674319740176181,21681
+Historical knowledge practice,balance,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[2]",-1.9026654246940449,0.2210647481981784,7.51125060039942e-18,21681
+Historical knowledge practice,balance,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[3]",0.09798479462858557,0.450682937806919,0.8278856968307966,21681
+Historical knowledge practice,balance,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[4]",-2.5533319999961086,1.1086726834691074,0.02127585871725678,21681
+Historical knowledge practice,balance,"bs(age_years, df=4, degree=3)[0]",-0.10430983913915344,0.14523121012817924,0.4726136702306267,21681
+Historical knowledge practice,balance,"bs(age_years, df=4, degree=3)[1]",0.07145663680937012,0.15092107996876508,0.6358777429701632,21681
+Historical knowledge practice,balance,"bs(age_years, df=4, degree=3)[2]",-0.4156318312588173,0.2773371496009684,0.13396397505825264,21681
+Historical knowledge practice,balance,"bs(age_years, df=4, degree=3)[3]",0.24461310810572545,0.2511266568605799,0.3300254109087759,21681
+Historical knowledge practice,balance,"bs(pre_alpha, df=4, degree=3)[0]",0.31210742440556716,0.047222033324844655,3.859847021044997e-11,21681
+Historical knowledge practice,balance,"bs(pre_alpha, df=4, degree=3)[1]",0.8470205074350888,0.24041245761259764,0.0004263739231864239,21681
+Historical knowledge practice,balance,"bs(pre_alpha, df=4, degree=3)[2]",0.9827919620783181,0.8216516752277552,0.23165070251342978,21681
+Historical knowledge practice,balance,"bs(pre_alpha, df=4, degree=3)[3]",4.051952793585472,1.8498322069948994,0.02849209365550998,21681
+Historical knowledge practice,balance,country,-0.3436107057766184,0.03625599720174075,2.608273202376002e-21,21681
+Historical knowledge practice,balance,z_history,-0.10783179236371165,0.14127825898442933,0.445309414054317,21681
+Historical knowledge practice,balance,z_recent,0.03712323240680848,0.0231627257968845,0.10899773972492824,21681
+Historical knowledge practice,balance,z_early_n,-0.24991317824106607,0.028962817240469466,6.202106441959501e-18,21681
+Historical knowledge practice,balance,z_collaborators,0.3608620918814553,0.042579002457915745,2.34840347605595e-17,21681
+Historical knowledge practice,balance,z_team,-0.21550826414397428,0.038897145773114324,3.0167000018842805e-08,21681
+Historical knowledge practice,balance,log_pre2023_n,-0.04465623653931754,0.1321379846211853,0.7353997002845203,21681
+Historical knowledge practice,balance,log_reference_budget,-0.12421015834276453,0.05267024882132195,0.018360811768702773,21681
+Historical knowledge practice,balance,history_balance,-0.019692860028312446,0.02129930752719496,0.35518573293164757,21681
+Historical knowledge practice,balance,history_variety,0.07896517101767137,0.02603603441276941,0.002422009847588366,21681
+Historical knowledge practice,diversity,Intercept,0.3929351825379312,0.38913268457208255,0.3126046692313863,21681
+Historical knowledge practice,diversity,C(field)[T.Arts and Humanities],-0.10931661706833179,0.1472978123700543,0.4579983274553906,21681
+Historical knowledge practice,diversity,"C(field)[T.Biochemistry, Genetics and Molecular Biology]",0.14891207977003848,0.08052854453725307,0.06443127754398954,21681
+Historical knowledge practice,diversity,"C(field)[T.Business, Management and Accounting]",0.4674718387967096,0.11111044476821565,2.584722177144467e-05,21681
+Historical knowledge practice,diversity,C(field)[T.Chemical Engineering],0.28102796055912727,0.24723651236227734,0.2556735010912027,21681
+Historical knowledge practice,diversity,C(field)[T.Chemistry],-0.07618861491347917,0.1334508831115465,0.5680597821360658,21681
+Historical knowledge practice,diversity,C(field)[T.Computer Science],0.27784839564625435,0.08226236925116631,0.0007312453701224138,21681
+Historical knowledge practice,diversity,C(field)[T.Decision Sciences],-0.22661389486892095,0.16416825243609526,0.16747094465825185,21681
+Historical knowledge practice,diversity,C(field)[T.Dentistry],-0.3303162851320319,0.1795380894831192,0.06579588097397841,21681
+Historical knowledge practice,diversity,C(field)[T.Earth and Planetary Sciences],-0.07920022237522782,0.11952427906484486,0.5075683591220036,21681
+Historical knowledge practice,diversity,"C(field)[T.Economics, Econometrics and Finance]",0.04302481035567365,0.1222429280323214,0.7248670988394827,21681
+Historical knowledge practice,diversity,C(field)[T.Energy],0.48747350587596,0.17638976211224822,0.005716483176221145,21681
+Historical knowledge practice,diversity,C(field)[T.Engineering],0.31419362877476,0.0729709652448769,1.6643230619998965e-05,21681
+Historical knowledge practice,diversity,C(field)[T.Environmental Science],-0.14014806593961965,0.09131838917439732,0.12485286931299995,21681
+Historical knowledge practice,diversity,C(field)[T.Health Professions],-0.038804936790233335,0.111408156177504,0.7276049452026799,21681
+Historical knowledge practice,diversity,C(field)[T.Immunology and Microbiology],-0.2218382544033311,0.1616775312060961,0.17003132025148882,21681
+Historical knowledge practice,diversity,C(field)[T.Materials Science],0.15587607185533273,0.10682881096616577,0.14453203814041066,21681
+Historical knowledge practice,diversity,C(field)[T.Mathematics],-0.47316135061631476,0.14833195870530003,0.0014233120951674437,21681
+Historical knowledge practice,diversity,C(field)[T.Medicine],-0.22210454856091544,0.06793884393082425,0.0010785832282150134,21681
+Historical knowledge practice,diversity,C(field)[T.Neuroscience],-0.05320181800579288,0.1295186016861544,0.6812442391886032,21681
+Historical knowledge practice,diversity,C(field)[T.Nursing],0.03219627477288437,0.2900668775819392,0.911619486879909,21681
+Historical knowledge practice,diversity,"C(field)[T.Pharmacology, Toxicology and Pharmaceutics]",0.16632523984269737,0.4311159149119452,0.6996435585582857,21681
+Historical knowledge practice,diversity,C(field)[T.Physics and Astronomy],-0.3245928559185236,0.10280257657367212,0.0015916157895783515,21681
+Historical knowledge practice,diversity,C(field)[T.Psychology],-0.10739269521637372,0.09571913528212894,0.2618809837783821,21681
+Historical knowledge practice,diversity,C(field)[T.Social Sciences],-0.049976633632120744,0.0900647578308412,0.5789653440811391,21681
+Historical knowledge practice,diversity,C(field)[T.Veterinary],-0.47822921324720147,0.49260799170694825,0.33164244815667243,21681
+Historical knowledge practice,diversity,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[0]",-0.09857212057261915,0.1524578314624686,0.5179210629344979,21681
+Historical knowledge practice,diversity,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[1]",-0.14431099572423833,0.10487513510810346,0.1688133386579741,21681
+Historical knowledge practice,diversity,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[2]",-1.9054893509730395,0.22108621286109745,6.768213155473205e-18,21681
+Historical knowledge practice,diversity,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[3]",0.09886287465306846,0.45049542123370867,0.8262966641847588,21681
+Historical knowledge practice,diversity,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[4]",-2.552422172203426,1.1092619063331899,0.021391094733025293,21681
+Historical knowledge practice,diversity,"bs(age_years, df=4, degree=3)[0]",-0.09787471936110623,0.14503991475754002,0.49979502085199745,21681
+Historical knowledge practice,diversity,"bs(age_years, df=4, degree=3)[1]",0.08337855703485125,0.1507522597675713,0.5802063727575171,21681
+Historical knowledge practice,diversity,"bs(age_years, df=4, degree=3)[2]",-0.40191783395139596,0.27707583080791415,0.1468996882968595,21681
+Historical knowledge practice,diversity,"bs(age_years, df=4, degree=3)[3]",0.26149773711270774,0.2506005505643464,0.29672405394541546,21681
+Historical knowledge practice,diversity,"bs(pre_alpha, df=4, degree=3)[0]",0.3116945497395869,0.04723300770627851,4.137079820016319e-11,21681
+Historical knowledge practice,diversity,"bs(pre_alpha, df=4, degree=3)[1]",0.855747225419268,0.24044747987348977,0.0003723010993775561,21681
+Historical knowledge practice,diversity,"bs(pre_alpha, df=4, degree=3)[2]",0.9887234266070424,0.8222960553216532,0.2292111088973775,21681
+Historical knowledge practice,diversity,"bs(pre_alpha, df=4, degree=3)[3]",4.075346206376308,1.84943777968586,0.027555337518422266,21681
+Historical knowledge practice,diversity,country,-0.3430543476204379,0.03622734534578042,2.812234826168924e-21,21681
+Historical knowledge practice,diversity,z_history,-0.1108098869176532,0.14124794207338937,0.4327431427929269,21681
+Historical knowledge practice,diversity,z_recent,0.0372819247630627,0.023161671893884624,0.10747674196829866,21681
+Historical knowledge practice,diversity,z_early_n,-0.2502101924643136,0.02896154755112362,5.651244186261319e-18,21681
+Historical knowledge practice,diversity,z_collaborators,0.36261744055825673,0.04255747412050079,1.5865715498755968e-17,21681
+Historical knowledge practice,diversity,z_team,-0.21718471462866357,0.03888602041273285,2.3348277462994533e-08,21681
+Historical knowledge practice,diversity,log_pre2023_n,-0.041009696668395816,0.13209776215251434,0.7562190849872427,21681
+Historical knowledge practice,diversity,log_reference_budget,-0.03305430473368369,0.03698884399694614,0.3715204094318896,21681
+Historical knowledge practice,diversity,history_diversity,0.040417353833031563,0.01585334770451524,0.010789226818445706,21681
+Historical knowledge practice,reuse,Intercept,-0.481620562807042,0.39563618255245714,0.22347794550693578,21681
+Historical knowledge practice,reuse,C(field)[T.Arts and Humanities],-0.14009497033593016,0.14721024470653124,0.34126644741130807,21681
+Historical knowledge practice,reuse,"C(field)[T.Biochemistry, Genetics and Molecular Biology]",0.1036076695313985,0.08054406342982418,0.1983217474761736,21681
+Historical knowledge practice,reuse,"C(field)[T.Business, Management and Accounting]",0.44384662413207704,0.11079248439768484,6.17275135675592e-05,21681
+Historical knowledge practice,reuse,C(field)[T.Chemical Engineering],0.3237416940176665,0.25024283158133875,0.19576555413911878,21681
+Historical knowledge practice,reuse,C(field)[T.Chemistry],-0.025959197276327364,0.13325968805340901,0.8455482883027153,21681
+Historical knowledge practice,reuse,C(field)[T.Computer Science],0.3232284484392812,0.08247120641888936,8.88107673782244e-05,21681
+Historical knowledge practice,reuse,C(field)[T.Decision Sciences],-0.17328844386192493,0.1666035734087316,0.2982821032392333,21681
+Historical knowledge practice,reuse,C(field)[T.Dentistry],-0.3879304324118668,0.17987856363299898,0.031034970814506173,21681
+Historical knowledge practice,reuse,C(field)[T.Earth and Planetary Sciences],0.008184146625963784,0.11968470961191578,0.9454824360284227,21681
+Historical knowledge practice,reuse,"C(field)[T.Economics, Econometrics and Finance]",0.015115030890901831,0.1228935759209515,0.902112761516932,21681
+Historical knowledge practice,reuse,C(field)[T.Energy],0.47681794650988746,0.18040749404051432,0.008217377104936505,21681
+Historical knowledge practice,reuse,C(field)[T.Engineering],0.37374206430481133,0.07301216612231164,3.073209054830206e-07,21681
+Historical knowledge practice,reuse,C(field)[T.Environmental Science],-0.11004814040663854,0.09157744406224849,0.22948178777415618,21681
+Historical knowledge practice,reuse,C(field)[T.Health Professions],-0.05000614882442982,0.11165863848524503,0.6542625700158761,21681
+Historical knowledge practice,reuse,C(field)[T.Immunology and Microbiology],-0.266400780632988,0.16106886643834675,0.09813650028810555,21681
+Historical knowledge practice,reuse,C(field)[T.Materials Science],0.2093954151173659,0.10718753445364373,0.05075533417895905,21681
+Historical knowledge practice,reuse,C(field)[T.Mathematics],-0.30698928148920124,0.14887561842622524,0.039202776093604175,21681
+Historical knowledge practice,reuse,C(field)[T.Medicine],-0.2925844493355467,0.06792300062898081,1.6504282727627598e-05,21681
+Historical knowledge practice,reuse,C(field)[T.Neuroscience],-0.01532758488053856,0.1297666297197301,0.9059753207902528,21681
+Historical knowledge practice,reuse,C(field)[T.Nursing],-0.003045600599194908,0.28982324524290576,0.9916156036031099,21681
+Historical knowledge practice,reuse,"C(field)[T.Pharmacology, Toxicology and Pharmaceutics]",0.2528372380836723,0.4316679854174616,0.5580626552522181,21681
+Historical knowledge practice,reuse,C(field)[T.Physics and Astronomy],-0.21968259121537814,0.10123369753823838,0.03000275467671945,21681
+Historical knowledge practice,reuse,C(field)[T.Psychology],-0.09250009281268168,0.09577186279478675,0.3341253110515844,21681
+Historical knowledge practice,reuse,C(field)[T.Social Sciences],-0.07969887706582,0.09008494064795344,0.3763140835545701,21681
+Historical knowledge practice,reuse,C(field)[T.Veterinary],-0.42386806084899253,0.49507197795875796,0.39190120078404445,21681
+Historical knowledge practice,reuse,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[0]",-0.06362363520495345,0.1532421845244693,0.6780075352209486,21681
+Historical knowledge practice,reuse,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[1]",-0.13717415076573905,0.10542694570316108,0.19321399658580962,21681
+Historical knowledge practice,reuse,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[2]",-1.8089079191742377,0.2223832357499778,4.1469514210754027e-16,21681
+Historical knowledge practice,reuse,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[3]",0.12245103740767789,0.45335653342742555,0.7870842762330769,21681
+Historical knowledge practice,reuse,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[4]",-2.5320126359244832,1.1261926872086585,0.02455742787584772,21681
+Historical knowledge practice,reuse,"bs(age_years, df=4, degree=3)[0]",-0.15951926079257583,0.14569325596570357,0.2735613066539533,21681
+Historical knowledge practice,reuse,"bs(age_years, df=4, degree=3)[1]",-0.20480300688061592,0.15280703635182194,0.18015689992445139,21681
+Historical knowledge practice,reuse,"bs(age_years, df=4, degree=3)[2]",-0.42347028174666446,0.2770603997702228,0.1264032543475632,21681
+Historical knowledge practice,reuse,"bs(age_years, df=4, degree=3)[3]",0.08687505163363038,0.25078766734593116,0.7290355223940166,21681
+Historical knowledge practice,reuse,"bs(pre_alpha, df=4, degree=3)[0]",0.28429542156147514,0.04741054534878696,2.0166570475843855e-09,21681
+Historical knowledge practice,reuse,"bs(pre_alpha, df=4, degree=3)[1]",0.733861157079076,0.24092659095344596,0.002319118015937145,21681
+Historical knowledge practice,reuse,"bs(pre_alpha, df=4, degree=3)[2]",1.1934277544238368,0.822112081751868,0.14659598733005408,21681
+Historical knowledge practice,reuse,"bs(pre_alpha, df=4, degree=3)[3]",3.9502116086708647,1.8288866462321336,0.030780439655528555,21681
+Historical knowledge practice,reuse,country,-0.3030133058585025,0.03634664402645934,7.63527898545177e-17,21681
+Historical knowledge practice,reuse,z_history,-0.14881867896902023,0.14177379615885488,0.2938601993764328,21681
+Historical knowledge practice,reuse,z_recent,0.01936787219055471,0.023237181759844076,0.4045705322690246,21681
+Historical knowledge practice,reuse,z_early_n,-0.19657946138580984,0.02923109873985125,1.7557914398520264e-11,21681
+Historical knowledge practice,reuse,z_collaborators,0.23591973137223293,0.04344762923429947,5.6360559781152444e-08,21681
+Historical knowledge practice,reuse,z_team,-0.1419761455823436,0.03936944129070112,0.0003106508858125493,21681
+Historical knowledge practice,reuse,log_pre2023_n,0.17611216144458922,0.13372508024591884,0.18784807277136872,21681
+Historical knowledge practice,reuse,log_reference_budget,0.06506533305268936,0.03748292329686684,0.08258752646582808,21681
+Historical knowledge practice,reuse,history_reuse,-0.24940967647791834,0.019535951935806827,2.5159056307246294e-37,21681
+Joint historical model,age_mean,Intercept,-0.1616705525125786,0.4089845919753038,0.6926234059736379,21681
+Joint historical model,age_mean,C(field)[T.Arts and Humanities],-0.08939588710236025,0.14705471889446328,0.5432478301310761,21681
+Joint historical model,age_mean,"C(field)[T.Biochemistry, Genetics and Molecular Biology]",0.04831803789792758,0.08124518548939624,0.5520314638149292,21681
+Joint historical model,age_mean,"C(field)[T.Business, Management and Accounting]",0.40768235936944475,0.11108867924124277,0.00024266233085292507,21681
+Joint historical model,age_mean,C(field)[T.Chemical Engineering],0.29418965789940066,0.2515974469386924,0.24228796467788605,21681
+Joint historical model,age_mean,C(field)[T.Chemistry],-0.02896847983652407,0.13464510383942502,0.8296527708471364,21681
+Joint historical model,age_mean,C(field)[T.Computer Science],0.24892970972514872,0.08371879657442638,0.002945176075337186,21681
+Joint historical model,age_mean,C(field)[T.Decision Sciences],-0.18338590604177563,0.1679340712991756,0.27482812777562027,21681
+Joint historical model,age_mean,C(field)[T.Dentistry],-0.3906550604836168,0.18146566625102545,0.031336231157205616,21681
+Joint historical model,age_mean,C(field)[T.Earth and Planetary Sciences],0.12262051338739549,0.1205775292241066,0.3091803917524367,21681
+Joint historical model,age_mean,"C(field)[T.Economics, Econometrics and Finance]",0.038283838563027486,0.12394374765546767,0.7574122354582913,21681
+Joint historical model,age_mean,C(field)[T.Energy],0.3746313646510644,0.18024103550690906,0.03766314082500443,21681
+Joint historical model,age_mean,C(field)[T.Engineering],0.3255388593063458,0.07435590656577958,1.1970907957049988e-05,21681
+Joint historical model,age_mean,C(field)[T.Environmental Science],-0.12650840863183652,0.09226184303416057,0.17031609923146707,21681
+Joint historical model,age_mean,C(field)[T.Health Professions],-0.13263268939592948,0.11210670067092282,0.23677216247679467,21681
+Joint historical model,age_mean,C(field)[T.Immunology and Microbiology],-0.32153711950930064,0.16238304405384263,0.04769059541768882,21681
+Joint historical model,age_mean,C(field)[T.Materials Science],0.19185647467033373,0.1083887376213274,0.07671421740844343,21681
+Joint historical model,age_mean,C(field)[T.Mathematics],-0.21349410966763438,0.15035826565932867,0.1556360053539297,21681
+Joint historical model,age_mean,C(field)[T.Medicine],-0.34504632213889186,0.06884774395679837,5.394278274620831e-07,21681
+Joint historical model,age_mean,C(field)[T.Neuroscience],-0.012118836535793707,0.13011240313216355,0.9257913185919653,21681
+Joint historical model,age_mean,C(field)[T.Nursing],-0.09032079846992735,0.28937403684796453,0.7549457188416093,21681
+Joint historical model,age_mean,"C(field)[T.Pharmacology, Toxicology and Pharmaceutics]",0.15426150508812828,0.44465645796303405,0.7286492468853821,21681
+Joint historical model,age_mean,C(field)[T.Physics and Astronomy],-0.15273935991457413,0.10483547086579972,0.14513197157841512,21681
+Joint historical model,age_mean,C(field)[T.Psychology],-0.1113317484611426,0.09604796260565975,0.24640458420772682,21681
+Joint historical model,age_mean,C(field)[T.Social Sciences],-0.1090893582366543,0.09048261603421025,0.22795676791526875,21681
+Joint historical model,age_mean,C(field)[T.Veterinary],-0.4378508938408993,0.4971951860440627,0.378511693804245,21681
+Joint historical model,age_mean,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[0]",-0.06219465399331087,0.15390965842718712,0.6861403267246913,21681
+Joint historical model,age_mean,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[1]",-0.13980516756048095,0.10585507917057643,0.18659396329604971,21681
+Joint historical model,age_mean,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[2]",-1.7652630752524126,0.22327368664151534,2.6520584734000617e-15,21681
+Joint historical model,age_mean,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[3]",0.06504497026820538,0.45526591604653427,0.8863908937221664,21681
+Joint historical model,age_mean,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[4]",-2.262601368008961,1.1277684247026336,0.04482807201965206,21681
+Joint historical model,age_mean,"bs(age_years, df=4, degree=3)[0]",-0.07430996753233754,0.14633971841310742,0.6116000391729526,21681
+Joint historical model,age_mean,"bs(age_years, df=4, degree=3)[1]",-0.1376062984876279,0.15346786843312016,0.36990802427187763,21681
+Joint historical model,age_mean,"bs(age_years, df=4, degree=3)[2]",-0.3195670963056384,0.27926673133444224,0.25249601355603346,21681
+Joint historical model,age_mean,"bs(age_years, df=4, degree=3)[3]",0.1545399429108435,0.25405022735103255,0.5429854159411458,21681
+Joint historical model,age_mean,"bs(pre_alpha, df=4, degree=3)[0]",0.25180572765072273,0.04762345201158446,1.240459695068065e-07,21681
+Joint historical model,age_mean,"bs(pre_alpha, df=4, degree=3)[1]",0.5653875284889216,0.2403972581271583,0.018678376783061133,21681
+Joint historical model,age_mean,"bs(pre_alpha, df=4, degree=3)[2]",1.191979159747759,0.8054196630479691,0.13888714426851803,21681
+Joint historical model,age_mean,"bs(pre_alpha, df=4, degree=3)[3]",3.6877999096842173,1.755772632311908,0.03569491689027076,21681
+Joint historical model,age_mean,country,-0.29073620793576943,0.03647243212803229,1.5689160276210038e-15,21681
+Joint historical model,age_mean,z_history,-0.14795299755882754,0.14228743995582838,0.29842460742796495,21681
+Joint historical model,age_mean,z_recent,0.021541722667217808,0.02330066649361027,0.35522032285355665,21681
+Joint historical model,age_mean,z_early_n,-0.19831066463685917,0.029271318449189513,1.2448029902881382e-11,21681
+Joint historical model,age_mean,z_collaborators,0.22115006433174889,0.04350980743894737,3.7198260294220646e-07,21681
+Joint historical model,age_mean,z_team,-0.16153315653597491,0.03950427039652898,4.3322764051724744e-05,21681
+Joint historical model,age_mean,log_pre2023_n,0.15072161665866937,0.1343364944117377,0.26187487904488993,21681
+Joint historical model,age_mean,log_reference_budget,-0.010875935227514422,0.04472666350260628,0.8078779931593498,21681
+Joint historical model,age_mean,history_age_mean,-0.17844111849303596,0.01695428542491467,6.637506765833273e-26,21681
+Joint historical model,age_mean,history_variety,0.061863465382125296,0.019518992501251782,0.0015275480535101086,21681
+Joint historical model,age_mean,history_reuse,-0.21994026901985153,0.019857319935028594,1.6398378324099891e-28,21681
+Joint historical model,variety,Intercept,-0.1616705525125786,0.4089845919753038,0.6926234059736379,21681
+Joint historical model,variety,C(field)[T.Arts and Humanities],-0.08939588710236025,0.14705471889446328,0.5432478301310761,21681
+Joint historical model,variety,"C(field)[T.Biochemistry, Genetics and Molecular Biology]",0.04831803789792758,0.08124518548939624,0.5520314638149292,21681
+Joint historical model,variety,"C(field)[T.Business, Management and Accounting]",0.40768235936944475,0.11108867924124277,0.00024266233085292507,21681
+Joint historical model,variety,C(field)[T.Chemical Engineering],0.29418965789940066,0.2515974469386924,0.24228796467788605,21681
+Joint historical model,variety,C(field)[T.Chemistry],-0.02896847983652407,0.13464510383942502,0.8296527708471364,21681
+Joint historical model,variety,C(field)[T.Computer Science],0.24892970972514872,0.08371879657442638,0.002945176075337186,21681
+Joint historical model,variety,C(field)[T.Decision Sciences],-0.18338590604177563,0.1679340712991756,0.27482812777562027,21681
+Joint historical model,variety,C(field)[T.Dentistry],-0.3906550604836168,0.18146566625102545,0.031336231157205616,21681
+Joint historical model,variety,C(field)[T.Earth and Planetary Sciences],0.12262051338739549,0.1205775292241066,0.3091803917524367,21681
+Joint historical model,variety,"C(field)[T.Economics, Econometrics and Finance]",0.038283838563027486,0.12394374765546767,0.7574122354582913,21681
+Joint historical model,variety,C(field)[T.Energy],0.3746313646510644,0.18024103550690906,0.03766314082500443,21681
+Joint historical model,variety,C(field)[T.Engineering],0.3255388593063458,0.07435590656577958,1.1970907957049988e-05,21681
+Joint historical model,variety,C(field)[T.Environmental Science],-0.12650840863183652,0.09226184303416057,0.17031609923146707,21681
+Joint historical model,variety,C(field)[T.Health Professions],-0.13263268939592948,0.11210670067092282,0.23677216247679467,21681
+Joint historical model,variety,C(field)[T.Immunology and Microbiology],-0.32153711950930064,0.16238304405384263,0.04769059541768882,21681
+Joint historical model,variety,C(field)[T.Materials Science],0.19185647467033373,0.1083887376213274,0.07671421740844343,21681
+Joint historical model,variety,C(field)[T.Mathematics],-0.21349410966763438,0.15035826565932867,0.1556360053539297,21681
+Joint historical model,variety,C(field)[T.Medicine],-0.34504632213889186,0.06884774395679837,5.394278274620831e-07,21681
+Joint historical model,variety,C(field)[T.Neuroscience],-0.012118836535793707,0.13011240313216355,0.9257913185919653,21681
+Joint historical model,variety,C(field)[T.Nursing],-0.09032079846992735,0.28937403684796453,0.7549457188416093,21681
+Joint historical model,variety,"C(field)[T.Pharmacology, Toxicology and Pharmaceutics]",0.15426150508812828,0.44465645796303405,0.7286492468853821,21681
+Joint historical model,variety,C(field)[T.Physics and Astronomy],-0.15273935991457413,0.10483547086579972,0.14513197157841512,21681
+Joint historical model,variety,C(field)[T.Psychology],-0.1113317484611426,0.09604796260565975,0.24640458420772682,21681
+Joint historical model,variety,C(field)[T.Social Sciences],-0.1090893582366543,0.09048261603421025,0.22795676791526875,21681
+Joint historical model,variety,C(field)[T.Veterinary],-0.4378508938408993,0.4971951860440627,0.378511693804245,21681
+Joint historical model,variety,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[0]",-0.06219465399331087,0.15390965842718712,0.6861403267246913,21681
+Joint historical model,variety,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[1]",-0.13980516756048095,0.10585507917057643,0.18659396329604971,21681
+Joint historical model,variety,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[2]",-1.7652630752524126,0.22327368664151534,2.6520584734000617e-15,21681
+Joint historical model,variety,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[3]",0.06504497026820538,0.45526591604653427,0.8863908937221664,21681
+Joint historical model,variety,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[4]",-2.262601368008961,1.1277684247026336,0.04482807201965206,21681
+Joint historical model,variety,"bs(age_years, df=4, degree=3)[0]",-0.07430996753233754,0.14633971841310742,0.6116000391729526,21681
+Joint historical model,variety,"bs(age_years, df=4, degree=3)[1]",-0.1376062984876279,0.15346786843312016,0.36990802427187763,21681
+Joint historical model,variety,"bs(age_years, df=4, degree=3)[2]",-0.3195670963056384,0.27926673133444224,0.25249601355603346,21681
+Joint historical model,variety,"bs(age_years, df=4, degree=3)[3]",0.1545399429108435,0.25405022735103255,0.5429854159411458,21681
+Joint historical model,variety,"bs(pre_alpha, df=4, degree=3)[0]",0.25180572765072273,0.04762345201158446,1.240459695068065e-07,21681
+Joint historical model,variety,"bs(pre_alpha, df=4, degree=3)[1]",0.5653875284889216,0.2403972581271583,0.018678376783061133,21681
+Joint historical model,variety,"bs(pre_alpha, df=4, degree=3)[2]",1.191979159747759,0.8054196630479691,0.13888714426851803,21681
+Joint historical model,variety,"bs(pre_alpha, df=4, degree=3)[3]",3.6877999096842173,1.755772632311908,0.03569491689027076,21681
+Joint historical model,variety,country,-0.29073620793576943,0.03647243212803229,1.5689160276210038e-15,21681
+Joint historical model,variety,z_history,-0.14795299755882754,0.14228743995582838,0.29842460742796495,21681
+Joint historical model,variety,z_recent,0.021541722667217808,0.02330066649361027,0.35522032285355665,21681
+Joint historical model,variety,z_early_n,-0.19831066463685917,0.029271318449189513,1.2448029902881382e-11,21681
+Joint historical model,variety,z_collaborators,0.22115006433174889,0.04350980743894737,3.7198260294220646e-07,21681
+Joint historical model,variety,z_team,-0.16153315653597491,0.03950427039652898,4.3322764051724744e-05,21681
+Joint historical model,variety,log_pre2023_n,0.15072161665866937,0.1343364944117377,0.26187487904488993,21681
+Joint historical model,variety,log_reference_budget,-0.010875935227514422,0.04472666350260628,0.8078779931593498,21681
+Joint historical model,variety,history_age_mean,-0.17844111849303596,0.01695428542491467,6.637506765833273e-26,21681
+Joint historical model,variety,history_variety,0.061863465382125296,0.019518992501251782,0.0015275480535101086,21681
+Joint historical model,variety,history_reuse,-0.21994026901985153,0.019857319935028594,1.6398378324099891e-28,21681
+Joint historical model,reuse,Intercept,-0.1616705525125786,0.4089845919753038,0.6926234059736379,21681
+Joint historical model,reuse,C(field)[T.Arts and Humanities],-0.08939588710236025,0.14705471889446328,0.5432478301310761,21681
+Joint historical model,reuse,"C(field)[T.Biochemistry, Genetics and Molecular Biology]",0.04831803789792758,0.08124518548939624,0.5520314638149292,21681
+Joint historical model,reuse,"C(field)[T.Business, Management and Accounting]",0.40768235936944475,0.11108867924124277,0.00024266233085292507,21681
+Joint historical model,reuse,C(field)[T.Chemical Engineering],0.29418965789940066,0.2515974469386924,0.24228796467788605,21681
+Joint historical model,reuse,C(field)[T.Chemistry],-0.02896847983652407,0.13464510383942502,0.8296527708471364,21681
+Joint historical model,reuse,C(field)[T.Computer Science],0.24892970972514872,0.08371879657442638,0.002945176075337186,21681
+Joint historical model,reuse,C(field)[T.Decision Sciences],-0.18338590604177563,0.1679340712991756,0.27482812777562027,21681
+Joint historical model,reuse,C(field)[T.Dentistry],-0.3906550604836168,0.18146566625102545,0.031336231157205616,21681
+Joint historical model,reuse,C(field)[T.Earth and Planetary Sciences],0.12262051338739549,0.1205775292241066,0.3091803917524367,21681
+Joint historical model,reuse,"C(field)[T.Economics, Econometrics and Finance]",0.038283838563027486,0.12394374765546767,0.7574122354582913,21681
+Joint historical model,reuse,C(field)[T.Energy],0.3746313646510644,0.18024103550690906,0.03766314082500443,21681
+Joint historical model,reuse,C(field)[T.Engineering],0.3255388593063458,0.07435590656577958,1.1970907957049988e-05,21681
+Joint historical model,reuse,C(field)[T.Environmental Science],-0.12650840863183652,0.09226184303416057,0.17031609923146707,21681
+Joint historical model,reuse,C(field)[T.Health Professions],-0.13263268939592948,0.11210670067092282,0.23677216247679467,21681
+Joint historical model,reuse,C(field)[T.Immunology and Microbiology],-0.32153711950930064,0.16238304405384263,0.04769059541768882,21681
+Joint historical model,reuse,C(field)[T.Materials Science],0.19185647467033373,0.1083887376213274,0.07671421740844343,21681
+Joint historical model,reuse,C(field)[T.Mathematics],-0.21349410966763438,0.15035826565932867,0.1556360053539297,21681
+Joint historical model,reuse,C(field)[T.Medicine],-0.34504632213889186,0.06884774395679837,5.394278274620831e-07,21681
+Joint historical model,reuse,C(field)[T.Neuroscience],-0.012118836535793707,0.13011240313216355,0.9257913185919653,21681
+Joint historical model,reuse,C(field)[T.Nursing],-0.09032079846992735,0.28937403684796453,0.7549457188416093,21681
+Joint historical model,reuse,"C(field)[T.Pharmacology, Toxicology and Pharmaceutics]",0.15426150508812828,0.44465645796303405,0.7286492468853821,21681
+Joint historical model,reuse,C(field)[T.Physics and Astronomy],-0.15273935991457413,0.10483547086579972,0.14513197157841512,21681
+Joint historical model,reuse,C(field)[T.Psychology],-0.1113317484611426,0.09604796260565975,0.24640458420772682,21681
+Joint historical model,reuse,C(field)[T.Social Sciences],-0.1090893582366543,0.09048261603421025,0.22795676791526875,21681
+Joint historical model,reuse,C(field)[T.Veterinary],-0.4378508938408993,0.4971951860440627,0.378511693804245,21681
+Joint historical model,reuse,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[0]",-0.06219465399331087,0.15390965842718712,0.6861403267246913,21681
+Joint historical model,reuse,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[1]",-0.13980516756048095,0.10585507917057643,0.18659396329604971,21681
+Joint historical model,reuse,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[2]",-1.7652630752524126,0.22327368664151534,2.6520584734000617e-15,21681
+Joint historical model,reuse,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[3]",0.06504497026820538,0.45526591604653427,0.8863908937221664,21681
+Joint historical model,reuse,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[4]",-2.262601368008961,1.1277684247026336,0.04482807201965206,21681
+Joint historical model,reuse,"bs(age_years, df=4, degree=3)[0]",-0.07430996753233754,0.14633971841310742,0.6116000391729526,21681
+Joint historical model,reuse,"bs(age_years, df=4, degree=3)[1]",-0.1376062984876279,0.15346786843312016,0.36990802427187763,21681
+Joint historical model,reuse,"bs(age_years, df=4, degree=3)[2]",-0.3195670963056384,0.27926673133444224,0.25249601355603346,21681
+Joint historical model,reuse,"bs(age_years, df=4, degree=3)[3]",0.1545399429108435,0.25405022735103255,0.5429854159411458,21681
+Joint historical model,reuse,"bs(pre_alpha, df=4, degree=3)[0]",0.25180572765072273,0.04762345201158446,1.240459695068065e-07,21681
+Joint historical model,reuse,"bs(pre_alpha, df=4, degree=3)[1]",0.5653875284889216,0.2403972581271583,0.018678376783061133,21681
+Joint historical model,reuse,"bs(pre_alpha, df=4, degree=3)[2]",1.191979159747759,0.8054196630479691,0.13888714426851803,21681
+Joint historical model,reuse,"bs(pre_alpha, df=4, degree=3)[3]",3.6877999096842173,1.755772632311908,0.03569491689027076,21681
+Joint historical model,reuse,country,-0.29073620793576943,0.03647243212803229,1.5689160276210038e-15,21681
+Joint historical model,reuse,z_history,-0.14795299755882754,0.14228743995582838,0.29842460742796495,21681
+Joint historical model,reuse,z_recent,0.021541722667217808,0.02330066649361027,0.35522032285355665,21681
+Joint historical model,reuse,z_early_n,-0.19831066463685917,0.029271318449189513,1.2448029902881382e-11,21681
+Joint historical model,reuse,z_collaborators,0.22115006433174889,0.04350980743894737,3.7198260294220646e-07,21681
+Joint historical model,reuse,z_team,-0.16153315653597491,0.03950427039652898,4.3322764051724744e-05,21681
+Joint historical model,reuse,log_pre2023_n,0.15072161665866937,0.1343364944117377,0.26187487904488993,21681
+Joint historical model,reuse,log_reference_budget,-0.010875935227514422,0.04472666350260628,0.8078779931593498,21681
+Joint historical model,reuse,history_age_mean,-0.17844111849303596,0.01695428542491467,6.637506765833273e-26,21681
+Joint historical model,reuse,history_variety,0.061863465382125296,0.019518992501251782,0.0015275480535101086,21681
+Joint historical model,reuse,history_reuse,-0.21994026901985153,0.019857319935028594,1.6398378324099891e-28,21681
+Early non-resistant collaborators,All collaborators,Intercept,1.3569843657292837,0.2568172269882573,1.2649506084611627e-07,9649
+Early non-resistant collaborators,All collaborators,C(field)[T.Arts and Humanities],0.159214193949923,0.2743680241521388,0.5617161867624927,9649
+Early non-resistant collaborators,All collaborators,"C(field)[T.Biochemistry, Genetics and Molecular Biology]",0.1905957292393004,0.12426027373196985,0.12506832470952167,9649
+Early non-resistant collaborators,All collaborators,"C(field)[T.Business, Management and Accounting]",0.7282046735495846,0.19074795125514896,0.0001347410170315121,9649
+Early non-resistant collaborators,All collaborators,C(field)[T.Chemical Engineering],-0.02337935864262967,0.4534268956120805,0.9588781185617247,9649
+Early non-resistant collaborators,All collaborators,C(field)[T.Chemistry],-0.14043859059718333,0.24998583547302006,0.5742617008703983,9649
+Early non-resistant collaborators,All collaborators,C(field)[T.Computer Science],0.3823692878489385,0.12941018989211825,0.003129653861117183,9649
+Early non-resistant collaborators,All collaborators,C(field)[T.Decision Sciences],-0.13535218460819637,0.29021771932930995,0.6409424281598239,9649
+Early non-resistant collaborators,All collaborators,C(field)[T.Dentistry],-0.3660112832967073,0.2498917534063599,0.14300842982448617,9649
+Early non-resistant collaborators,All collaborators,C(field)[T.Earth and Planetary Sciences],-0.3719365580411722,0.2284775647127356,0.10354801241650154,9649
+Early non-resistant collaborators,All collaborators,"C(field)[T.Economics, Econometrics and Finance]",0.19150056870108392,0.22614455522471172,0.39710325728341156,9649
+Early non-resistant collaborators,All collaborators,C(field)[T.Energy],0.30004632893372024,0.25444883570834625,0.23831813638933852,9649
+Early non-resistant collaborators,All collaborators,C(field)[T.Engineering],0.3823574721739045,0.1121766147872829,0.0006531365690476563,9649
+Early non-resistant collaborators,All collaborators,C(field)[T.Environmental Science],0.1849679071859913,0.1489447682482115,0.21428981298186445,9649
+Early non-resistant collaborators,All collaborators,C(field)[T.Health Professions],0.15435189645972106,0.17369173071169577,0.3741889202078711,9649
+Early non-resistant collaborators,All collaborators,C(field)[T.Immunology and Microbiology],0.22073108424649823,0.23269942464627213,0.3428406866309148,9649
+Early non-resistant collaborators,All collaborators,C(field)[T.Materials Science],0.08961719711262413,0.1679627895518443,0.5936502280280471,9649
+Early non-resistant collaborators,All collaborators,C(field)[T.Mathematics],-0.3293243785736641,0.2923984745678481,0.2600443800452582,9649
+Early non-resistant collaborators,All collaborators,C(field)[T.Medicine],-0.1399589511819011,0.1048731392608516,0.18202210061722346,9649
+Early non-resistant collaborators,All collaborators,C(field)[T.Neuroscience],0.6593236864795218,0.22924524881490965,0.004026698438182415,9649
+Early non-resistant collaborators,All collaborators,C(field)[T.Nursing],0.5832804901805593,0.4736384945486962,0.21814011179315052,9649
+Early non-resistant collaborators,All collaborators,"C(field)[T.Pharmacology, Toxicology and Pharmaceutics]",0.027959347092823918,0.7431692300767166,0.9699892446274364,9649
+Early non-resistant collaborators,All collaborators,C(field)[T.Physics and Astronomy],-0.47316686061714186,0.17722990513393908,0.00758984034484572,9649
+Early non-resistant collaborators,All collaborators,C(field)[T.Psychology],-0.0512426165612355,0.15691607578280417,0.7440002057130021,9649
+Early non-resistant collaborators,All collaborators,C(field)[T.Social Sciences],0.10756032046726408,0.1522492380548229,0.4798926309673084,9649
+Early non-resistant collaborators,All collaborators,C(field)[T.Veterinary],-21.10975139224338,0.5697997620008233,1.958184799103328e-300,9649
+Early non-resistant collaborators,All collaborators,nonresistant_partner,0.2852499828677378,0.04476893306646466,1.8705947222192724e-10,9649
+Early non-resistant collaborators,All collaborators,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[0]",0.21215466667662528,0.20549002457705154,0.3018693555561215,9649
+Early non-resistant collaborators,All collaborators,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[1]",-0.11156152313025289,0.1424194775729395,0.43343304656577664,9649
+Early non-resistant collaborators,All collaborators,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[2]",-1.3292364122130795,0.3182588704369416,2.959133418529392e-05,9649
+Early non-resistant collaborators,All collaborators,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[3]",0.3380336190205061,0.6861511767154532,0.6222586334061613,9649
+Early non-resistant collaborators,All collaborators,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[4]",-2.987469315043796,1.7026550161667307,0.07932867397811692,9649
+Early non-resistant collaborators,All collaborators,country,-0.38715938906673786,0.05902116809331847,5.392696330473456e-11,9649
+Early non-resistant collaborators,All collaborators,"bs(age_years, df=4, degree=3)[0]",-0.3475840072304482,0.15338043097923462,0.02344182425388607,9649
+Early non-resistant collaborators,All collaborators,"bs(age_years, df=4, degree=3)[1]",0.4095983721981352,0.21326246086907596,0.05477831584205218,9649
+Early non-resistant collaborators,All collaborators,"bs(age_years, df=4, degree=3)[2]",-0.8010775540880483,0.3822157852650957,0.036093038331443374,9649
+Early non-resistant collaborators,All collaborators,"bs(age_years, df=4, degree=3)[3]",0.6903253648120672,0.3560820359807979,0.05254160091505784,9649
+Early non-resistant collaborators,All collaborators,pre_alpha,1.6614014953116034,0.343160387294617,1.2888067040837646e-06,9649
+Early non-resistant collaborators,All collaborators,log_history,-0.03797235468769598,0.03932969104080608,0.3343003170123702,9649
+Early non-resistant collaborators,All collaborators,log_recent,-0.024658857381269175,0.052298050863507035,0.6372792638401625,9649
+Early non-resistant collaborators,All collaborators,log_team,-0.7446364034990849,0.11173935153348237,2.6638637645675178e-11,9649
+Early non-resistant collaborators,All collaborators,log_own_n,-0.7490142335484438,0.1031390181391658,3.8089760031257663e-13,9649
+Early non-resistant collaborators,All collaborators,log_total_partner_n,0.5693990073838763,0.08240842630942313,4.8644867026801865e-12,9649
+Early non-resistant collaborators,All collaborators,log_partner_n,0.10010333099974403,0.08551567024975248,0.24176576997822563,9649
+Early non-resistant collaborators,Corresponding collaborators,Intercept,1.7614447285170285,0.6130730778076754,0.004064140863702392,1642
+Early non-resistant collaborators,Corresponding collaborators,C(field)[T.Arts and Humanities],-0.911224236349137,0.565549545182094,0.1071319734687915,1642
+Early non-resistant collaborators,Corresponding collaborators,"C(field)[T.Biochemistry, Genetics and Molecular Biology]",-0.008243470645315122,0.30052890878100147,0.9781168697580559,1642
+Early non-resistant collaborators,Corresponding collaborators,"C(field)[T.Business, Management and Accounting]",0.5600739966394629,0.4702671231157924,0.2336653948311488,1642
+Early non-resistant collaborators,Corresponding collaborators,C(field)[T.Chemical Engineering],0.1331656620821017,0.7884727440248316,0.8658826659043559,1642
+Early non-resistant collaborators,Corresponding collaborators,C(field)[T.Chemistry],-0.4119874193561295,0.5002826474154135,0.4102184232731332,1642
+Early non-resistant collaborators,Corresponding collaborators,C(field)[T.Computer Science],0.12293722519820612,0.3431171922404967,0.7201224487030573,1642
+Early non-resistant collaborators,Corresponding collaborators,C(field)[T.Decision Sciences],-0.03983025545324201,0.5212997089688955,0.9390963558587134,1642
+Early non-resistant collaborators,Corresponding collaborators,C(field)[T.Dentistry],-0.9388171684348551,0.6027403201292892,0.11933248834804261,1642
+Early non-resistant collaborators,Corresponding collaborators,C(field)[T.Earth and Planetary Sciences],-0.9069700739987945,0.6021626372836847,0.1320189464886267,1642
+Early non-resistant collaborators,Corresponding collaborators,"C(field)[T.Economics, Econometrics and Finance]",0.17550413125343028,0.559817541178742,0.7538990131556826,1642
+Early non-resistant collaborators,Corresponding collaborators,C(field)[T.Energy],-0.3100320188383212,0.54043410132066,0.5661896452093517,1642
+Early non-resistant collaborators,Corresponding collaborators,C(field)[T.Engineering],0.05127853930949635,0.26799515387343326,0.8482582114042458,1642
+Early non-resistant collaborators,Corresponding collaborators,C(field)[T.Environmental Science],0.49414029125302944,0.37925005657885036,0.19259504611932854,1642
+Early non-resistant collaborators,Corresponding collaborators,C(field)[T.Health Professions],-1.0149351862916793,0.5578076992093889,0.06883406859578738,1642
+Early non-resistant collaborators,Corresponding collaborators,C(field)[T.Immunology and Microbiology],-0.2201660310571752,0.510422765854027,0.6662207777837619,1642
+Early non-resistant collaborators,Corresponding collaborators,C(field)[T.Materials Science],-0.43379464108989607,0.38708708837422995,0.2624308275500181,1642
+Early non-resistant collaborators,Corresponding collaborators,C(field)[T.Mathematics],-1.3143556711984197,0.589558847463741,0.025788071626524505,1642
+Early non-resistant collaborators,Corresponding collaborators,C(field)[T.Medicine],-0.34113963767062944,0.2518062909267607,0.17549081095670138,1642
+Early non-resistant collaborators,Corresponding collaborators,C(field)[T.Neuroscience],0.24614259578003483,0.7002899109801692,0.7252232422987663,1642
+Early non-resistant collaborators,Corresponding collaborators,C(field)[T.Nursing],-0.8589026089731445,2.088597769881633,0.6809008915974124,1642
+Early non-resistant collaborators,Corresponding collaborators,"C(field)[T.Pharmacology, Toxicology and Pharmaceutics]",-20.609901616394602,0.7707356403169078,1.5900316154907693e-157,1642
+Early non-resistant collaborators,Corresponding collaborators,C(field)[T.Physics and Astronomy],-1.077191738507953,0.3700498363092735,0.003603467350010627,1642
+Early non-resistant collaborators,Corresponding collaborators,C(field)[T.Psychology],-0.4775364272714907,0.41179898248403446,0.2461975295247797,1642
+Early non-resistant collaborators,Corresponding collaborators,C(field)[T.Social Sciences],-1.2256450119841678,0.4127905887566443,0.0029860633874722272,1642
+Early non-resistant collaborators,Corresponding collaborators,nonresistant_partner,0.3495353885283827,0.10836792120328184,0.0012577449059662784,1642
+Early non-resistant collaborators,Corresponding collaborators,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[0]",0.39182960620355345,0.47178861611032663,0.40624517455851694,1642
+Early non-resistant collaborators,Corresponding collaborators,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[1]",-0.0390228444535093,0.3296095859484671,0.9057577701381319,1642
+Early non-resistant collaborators,Corresponding collaborators,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[2]",-1.4265339806577004,0.7656851476709838,0.062450773584538856,1642
+Early non-resistant collaborators,Corresponding collaborators,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[3]",0.22666455076379427,1.7040913741840014,0.8941839139167772,1642
+Early non-resistant collaborators,Corresponding collaborators,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[4]",-4.180726707164001,2.6874664960338346,0.11979404658275017,1642
+Early non-resistant collaborators,Corresponding collaborators,country,-0.4510733247634141,0.1760973019913316,0.0104221095236328,1642
+Early non-resistant collaborators,Corresponding collaborators,"bs(age_years, df=4, degree=3)[0]",-0.23495416542161424,0.3661730282739943,0.5211018052671673,1642
+Early non-resistant collaborators,Corresponding collaborators,"bs(age_years, df=4, degree=3)[1]",-0.02863005831058555,0.5290491413822861,0.9568426920990035,1642
+Early non-resistant collaborators,Corresponding collaborators,"bs(age_years, df=4, degree=3)[2]",-0.16215744643307173,0.9674795976696043,0.8668915746655226,1642
+Early non-resistant collaborators,Corresponding collaborators,"bs(age_years, df=4, degree=3)[3]",0.8587724825676646,0.9181506947587482,0.34961904865258153,1642
+Early non-resistant collaborators,Corresponding collaborators,pre_alpha,2.2694967942981625,0.7957189780416053,0.004342685120028074,1642
+Early non-resistant collaborators,Corresponding collaborators,log_history,-0.08966456370463916,0.10020278719349442,0.3708774177806181,1642
+Early non-resistant collaborators,Corresponding collaborators,log_recent,0.0026601170260962576,0.13716185163319988,0.9845267963768237,1642
+Early non-resistant collaborators,Corresponding collaborators,log_team,-0.3074570459046255,0.1397558251583962,0.027809824106561486,1642
+Early non-resistant collaborators,Corresponding collaborators,log_own_n,-0.36599154134066175,0.21048838088837796,0.08207467634426259,1642
+Early non-resistant collaborators,Corresponding collaborators,log_total_partner_n,0.3567309849133486,0.11133134689725677,0.0013542532903452213,1642
+Early non-resistant collaborators,Corresponding collaborators,log_partner_n,-0.3803155103995424,0.48288552051298356,0.43093692537774564,1642

@@ -1,0 +1,221 @@
+year,model,term,label,group,estimate,bootstrap_SE,lower,upper,reference,authors
+2025,Baseline,Intercept,Intercept,Common baseline,-0.018800334316403468,0.013559400989273442,-0.04584513248632158,0.0075991027651132635,False,37629
+2025,Baseline,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[0]",Early R: spline 1,Common baseline,-0.03121160201368403,0.021360890271963837,-0.07509106833817278,0.01196326191107672,False,37629
+2025,Baseline,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[1]",Early R: spline 2,Common baseline,0.07200419384270029,0.013761842511196819,0.042422543794381096,0.09511335194615943,False,37629
+2025,Baseline,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[2]",Early R: spline 3,Common baseline,0.30132905742612254,0.029953516222533345,0.2474230862177172,0.35765043392685403,False,37629
+2025,Baseline,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[3]",Early R: spline 4,Common baseline,0.013055708386083735,0.05577920149559511,-0.09677751776016072,0.10858812478256814,False,37629
+2025,Baseline,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[4]",Early R: spline 5,Common baseline,0.391179663758151,0.12292369816955574,0.1335676169102483,0.6103525354001419,False,37629
+2025,Baseline + personal,Intercept,Intercept,Common baseline,0.0009213872516951575,0.01900154380671175,-0.03698920749399667,0.03934858371149659,False,37629
+2025,Baseline + personal,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[0]",Early R: spline 1,Common baseline,-0.032072739826005434,0.021454623333540437,-0.07386405359198772,0.011026230834357305,False,37629
+2025,Baseline + personal,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[1]",Early R: spline 2,Common baseline,0.06851820783373085,0.013834475051777016,0.03816996790866616,0.0917181467803097,False,37629
+2025,Baseline + personal,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[2]",Early R: spline 3,Common baseline,0.31431665776112055,0.03162909411882251,0.2558798681497504,0.3775429771037435,False,37629
+2025,Baseline + personal,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[3]",Early R: spline 4,Common baseline,0.10095853985549182,0.057654348200841345,-0.014085521979408473,0.21130184059743157,False,37629
+2025,Baseline + personal,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[4]",Early R: spline 5,Common baseline,0.41377465592265783,0.1257129597553236,0.18305250615497248,0.6659702620581402,False,37629
+2025,Baseline + personal,"bs(age_years, df=4, degree=3)[0]",Academic age: spline 1,Personal background,0.0010290164493625407,0.016762022501378145,-0.032911128159434415,0.02917028270576266,False,37629
+2025,Baseline + personal,"bs(age_years, df=4, degree=3)[1]",Academic age: spline 2,Personal background,-0.0974140303350576,0.022437524860295585,-0.13805332967585446,-0.05819189212627713,False,37629
+2025,Baseline + personal,"bs(age_years, df=4, degree=3)[2]",Academic age: spline 3,Personal background,0.04540377377036838,0.03677580336401945,-0.02016810627414356,0.11425084761087625,False,37629
+2025,Baseline + personal,"bs(age_years, df=4, degree=3)[3]",Academic age: spline 4,Personal background,-0.09572748331743486,0.03368070719416023,-0.16197568383672037,-0.030784041813072045,False,37629
+2025,Baseline + personal,z_history,Cumulative first-author output: z,Personal background,0.013182409721569121,0.003811250491234111,0.005491976623119883,0.019876019124844713,False,37629
+2025,Baseline + personal,z_history^2,Cumulative first-author output: z squared,Personal background,0.0006840989010398368,0.00174358223244526,-0.002467175390330759,0.004501813805233218,False,37629
+2025,Baseline + personal,z_recent,Recent first-author output: z,Personal background,-0.006766762758777915,0.003343788634900759,-0.013097975040264472,-0.0007097963103614323,False,37629
+2025,Baseline + personal,z_recent^2,Recent first-author output: z squared,Personal background,-0.0022638325185459916,0.0018187148972179652,-0.005856334624137207,0.001026621732583255,False,37629
+2025,Baseline + personal,z_early_n,Early publication count: z,Personal background,0.023544993566498862,0.003811281549098149,0.015728522555395103,0.031207020607957034,False,37629
+2025,Baseline + personal,z_early_n^2,Early publication count: z squared,Personal background,0.003040258098994231,0.001847923830684546,-0.0005228205713135183,0.006523005617071329,False,37629
+2025,Baseline + personal,pre_alpha,Historical mean alpha,Personal background,-0.2042686371444541,0.046798271941551166,-0.2809759382080936,-0.11338542347935966,False,37629
+2025,Baseline + personal,pre_alpha^2,Historical mean alpha: squared,Personal background,0.2552444527366472,0.10740010052132731,0.04818694577680217,0.4478612658192339,False,37629
+2025,Baseline + environment,Intercept,Intercept,Common baseline,-0.03337863168527745,0.01511130978888471,-0.062381489938752886,-0.005193880361596946,False,37629
+2025,Baseline + environment,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[0]",Early R: spline 1,Common baseline,-0.002866917880946886,0.0217417351167399,-0.0481204697675192,0.039229020038400036,False,37629
+2025,Baseline + environment,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[1]",Early R: spline 2,Common baseline,0.0592910189095047,0.013939896949770691,0.029375909453171402,0.08404486949906229,False,37629
+2025,Baseline + environment,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[2]",Early R: spline 3,Common baseline,0.3172989994014503,0.03132963294888992,0.2587568273092219,0.3762463419182456,False,37629
+2025,Baseline + environment,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[3]",Early R: spline 4,Common baseline,0.10015475823284542,0.057121573110232096,-0.011344474530053746,0.19883036998447298,False,37629
+2025,Baseline + environment,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[4]",Early R: spline 5,Common baseline,0.3219516484442138,0.1254919609206232,0.07099746694277345,0.5406418527499453,False,37629
+2025,Baseline + environment,field[Agricultural and Biological Sciences],Field: Agricultural and Biological Sciences,External environment,0.0,0.0,0.0,0.0,True,37629
+2025,Baseline + environment,field[Arts and Humanities],Field: Arts and Humanities,External environment,-0.03202675494247202,0.016477487515813877,-0.0646264169403214,-0.0006079680093164262,False,37629
+2025,Baseline + environment,"field[Biochemistry, Genetics and Molecular Biology]","Field: Biochemistry, Genetics and Molecular Biology",External environment,-0.031204550426339742,0.011334873001848914,-0.0520576917012452,-0.008705580341726337,False,37629
+2025,Baseline + environment,"field[Business, Management and Accounting]","Field: Business, Management and Accounting",External environment,-0.07455152933629354,0.013617525043185755,-0.10112576303031215,-0.04680535339817809,False,37629
+2025,Baseline + environment,field[Chemical Engineering],Field: Chemical Engineering,External environment,-0.03507912603336951,0.023892496033879683,-0.07970742454103374,0.007956365725518508,False,37629
+2025,Baseline + environment,field[Chemistry],Field: Chemistry,External environment,0.010184408419863941,0.017473029718203754,-0.023851384315161917,0.04270265409302831,False,37629
+2025,Baseline + environment,field[Computer Science],Field: Computer Science,External environment,-0.06240030809242175,0.01089411468027041,-0.08453456748576686,-0.04211877650385047,False,37629
+2025,Baseline + environment,field[Decision Sciences],Field: Decision Sciences,External environment,-0.005195455308726729,0.020687888444675364,-0.04666229084801158,0.030555199981268936,False,37629
+2025,Baseline + environment,field[Dentistry],Field: Dentistry,External environment,-0.01799372123456882,0.020938349561660623,-0.05734267256724752,0.026166022839749274,False,37629
+2025,Baseline + environment,field[Earth and Planetary Sciences],Field: Earth and Planetary Sciences,External environment,0.017272758248329523,0.01639606601288946,-0.016887839493443104,0.05064793977824874,False,37629
+2025,Baseline + environment,"field[Economics, Econometrics and Finance]","Field: Economics, Econometrics and Finance",External environment,-0.02885532916195153,0.01472590108488971,-0.06026489974636593,-0.0021466638797889596,False,37629
+2025,Baseline + environment,field[Energy],Field: Energy,External environment,-0.02966916698682324,0.019064791752053323,-0.07289837255347303,0.0033091148005345065,False,37629
+2025,Baseline + environment,field[Engineering],Field: Engineering,External environment,-0.038770645504876716,0.00922736696220615,-0.05564476563339945,-0.020410438993559175,False,37629
+2025,Baseline + environment,field[Environmental Science],Field: Environmental Science,External environment,0.017287280030131066,0.012657552305467267,-0.005578745522574398,0.0390202632948322,False,37629
+2025,Baseline + environment,field[Health Professions],Field: Health Professions,External environment,-0.024400110294371398,0.014327245901802123,-0.051520646122080016,0.0044892320833416375,False,37629
+2025,Baseline + environment,field[Immunology and Microbiology],Field: Immunology and Microbiology,External environment,0.004893393300184526,0.018127506737451008,-0.03428515267160702,0.03845264395017968,False,37629
+2025,Baseline + environment,field[Materials Science],Field: Materials Science,External environment,-0.013336744964100209,0.013873300641263372,-0.0406720032156145,0.010723483104899057,False,37629
+2025,Baseline + environment,field[Mathematics],Field: Mathematics,External environment,0.02672597114947448,0.016897237181956914,-0.0031451652212090564,0.06034936430368894,False,37629
+2025,Baseline + environment,field[Medicine],Field: Medicine,External environment,0.029443738187223994,0.008899486634573326,0.011477444411719898,0.046168290421440134,False,37629
+2025,Baseline + environment,field[Neuroscience],Field: Neuroscience,External environment,-0.01644502950936494,0.017596426324931455,-0.05002739866840254,0.017307309925444544,False,37629
+2025,Baseline + environment,field[Nursing],Field: Nursing,External environment,0.010376295333581639,0.023191976259002947,-0.02824032676386648,0.06031462217918795,False,37629
+2025,Baseline + environment,"field[Pharmacology, Toxicology and Pharmaceutics]","Field: Pharmacology, Toxicology and Pharmaceutics",External environment,-0.0338620672913263,0.020451015045022582,-0.06670984380592342,0.004358087496887255,False,37629
+2025,Baseline + environment,field[Physics and Astronomy],Field: Physics and Astronomy,External environment,0.03037826491282584,0.012004128321651441,0.007565355123472092,0.050934494952978866,False,37629
+2025,Baseline + environment,field[Psychology],Field: Psychology,External environment,-0.004887775460013713,0.013131517673853593,-0.029425589834346542,0.017523595958877067,False,37629
+2025,Baseline + environment,field[Social Sciences],Field: Social Sciences,External environment,-0.04965489672216515,0.012590380174261947,-0.0790041070418613,-0.025580635044436494,False,37629
+2025,Baseline + environment,field[Veterinary],Field: Veterinary,External environment,0.03300245429490868,0.017812734877109486,-0.0021519261875509914,0.06766331093042996,False,37629
+2025,Baseline + environment,country,English-speaking affiliation share,External environment,0.015208364675513751,0.00514132739185498,0.006945110682430688,0.0271523173072271,False,37629
+2025,Baseline + environment,z_collaborators,Distinct collaborator count: z,External environment,-0.0007051621727900428,0.003998085321531244,-0.009287590868513305,0.006741183829619232,False,37629
+2025,Baseline + environment,z_collaborators^2,Distinct collaborator count: z squared,External environment,0.004192350189792369,0.002002510361696095,1.5450799769865524e-05,0.007889014385222243,False,37629
+2025,Baseline + environment,z_team,Mean team size: z,External environment,-0.025384275779020773,0.004224953802139679,-0.03261863375601634,-0.01618757464528626,False,37629
+2025,Baseline + environment,z_team^2,Mean team size: z squared,External environment,0.008317260494215618,0.0017610167739320571,0.005313887938019212,0.011994252567762844,False,37629
+2025,Full model,Intercept,Intercept,Common baseline,-0.01445853333153363,0.017888208906768285,-0.047145606911757426,0.01896689888513184,False,37629
+2025,Full model,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[0]",Early R: spline 1,Common baseline,-0.0009989868725221774,0.021936585615587496,-0.04562482069580176,0.042768753402568145,False,37629
+2025,Full model,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[1]",Early R: spline 2,Common baseline,0.055704384775887926,0.014050977113738688,0.025410125165326765,0.0804411725511122,False,37629
+2025,Full model,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[2]",Early R: spline 3,Common baseline,0.3329819561269029,0.03189197181597148,0.2722137918772164,0.39337580393739086,False,37629
+2025,Full model,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[3]",Early R: spline 4,Common baseline,0.1472441007328464,0.05839730332098245,0.03339672408484772,0.2577060909618583,False,37629
+2025,Full model,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[4]",Early R: spline 5,Common baseline,0.37568330150002394,0.1248795829139443,0.1353946569528499,0.5894945618702881,False,37629
+2025,Full model,"bs(age_years, df=4, degree=3)[0]",Academic age: spline 1,Personal background,-0.002178999546073213,0.012436444418471325,-0.028697954075289307,0.019005205773893936,False,37629
+2025,Full model,"bs(age_years, df=4, degree=3)[1]",Academic age: spline 2,Personal background,-0.021673370513784696,0.01566085594327944,-0.0491460555208583,0.010452069071340784,False,37629
+2025,Full model,"bs(age_years, df=4, degree=3)[2]",Academic age: spline 3,Personal background,-0.02440289479281841,0.018939137753107883,-0.06017842328191261,0.012709509373833095,False,37629
+2025,Full model,"bs(age_years, df=4, degree=3)[3]",Academic age: spline 4,Personal background,-0.04508817220626855,0.018487719967790667,-0.08344941204185359,-0.011942702504542824,False,37629
+2025,Full model,z_history,Cumulative first-author output: z,Personal background,0.011257888598922733,0.00346286518059886,0.003768802451179283,0.017003863985517637,False,37629
+2025,Full model,z_history^2,Cumulative first-author output: z squared,Personal background,-0.0006266141874531329,0.001643153278870732,-0.0035473817084615516,0.0027318178388086615,False,37629
+2025,Full model,z_recent,Recent first-author output: z,Personal background,-0.0023168776363399037,0.0032516801270145394,-0.008146569098947724,0.0038359253113896814,False,37629
+2025,Full model,z_recent^2,Recent first-author output: z squared,Personal background,0.00016475064527703777,0.0018429647525490085,-0.0034405086299397086,0.0035339146109004587,False,37629
+2025,Full model,z_early_n,Early publication count: z,Personal background,0.056576523636141754,0.004293819283602832,0.048191704544854594,0.06536572324060341,False,37629
+2025,Full model,z_early_n^2,Early publication count: z squared,Personal background,0.0003435563600092953,0.001874211684120702,-0.0033250790816901927,0.00393162110899953,False,37629
+2025,Full model,pre_alpha,Historical mean alpha,Personal background,-0.049162177135078075,0.017728113330703694,-0.07934356488690543,-0.014565087792845318,False,37629
+2025,Full model,pre_alpha^2,Historical mean alpha: squared,Personal background,0.004250637231947259,0.013616227273337353,-0.0221221705264778,0.028206391820839866,False,37629
+2025,Full model,field[Agricultural and Biological Sciences],Field: Agricultural and Biological Sciences,External environment,0.0,0.0,0.0,0.0,True,37629
+2025,Full model,field[Arts and Humanities],Field: Arts and Humanities,External environment,-0.03224307203151366,0.016606465350353112,-0.06585625948791984,-0.00019348142680789487,False,37629
+2025,Full model,"field[Biochemistry, Genetics and Molecular Biology]","Field: Biochemistry, Genetics and Molecular Biology",External environment,-0.027787851955159634,0.011244391567698403,-0.04816640402503692,-0.006950211318080893,False,37629
+2025,Full model,"field[Business, Management and Accounting]","Field: Business, Management and Accounting",External environment,-0.07217188400824459,0.013824905682350484,-0.09844984360122848,-0.04471721063816797,False,37629
+2025,Full model,field[Chemical Engineering],Field: Chemical Engineering,External environment,-0.03954070923252473,0.02342469035690054,-0.08444269560042743,0.005119056717466538,False,37629
+2025,Full model,field[Chemistry],Field: Chemistry,External environment,0.006922591405200081,0.01726203474022614,-0.026767106684255366,0.03785158065371139,False,37629
+2025,Full model,field[Computer Science],Field: Computer Science,External environment,-0.06466865116272387,0.010876003075058566,-0.08542563815191677,-0.044243314012666804,False,37629
+2025,Full model,field[Decision Sciences],Field: Decision Sciences,External environment,-0.006121420903429731,0.020478703615878644,-0.045530217655588734,0.028853382042978295,False,37629
+2025,Full model,field[Dentistry],Field: Dentistry,External environment,-0.024441996443439487,0.020983977113985898,-0.0636372933154899,0.020726226812232785,False,37629
+2025,Full model,field[Earth and Planetary Sciences],Field: Earth and Planetary Sciences,External environment,0.01386731621812061,0.01626775529987197,-0.019677852699982804,0.04629046456018268,False,37629
+2025,Full model,"field[Economics, Econometrics and Finance]","Field: Economics, Econometrics and Finance",External environment,-0.03759021350529669,0.014990013441993482,-0.06900982889575219,-0.009688754861429158,False,37629
+2025,Full model,field[Energy],Field: Energy,External environment,-0.027905394483360175,0.019053626530487613,-0.07226394948726009,0.0052621384471872165,False,37629
+2025,Full model,field[Engineering],Field: Engineering,External environment,-0.04572122427900819,0.009110949520206673,-0.06256412568968026,-0.02668096596979484,False,37629
+2025,Full model,field[Environmental Science],Field: Environmental Science,External environment,0.01414703919959363,0.01259483744032026,-0.00872050191665469,0.0360228722177677,False,37629
+2025,Full model,field[Health Professions],Field: Health Professions,External environment,-0.025317655739907793,0.014324492754395185,-0.051926420638325164,0.005092154746026707,False,37629
+2025,Full model,field[Immunology and Microbiology],Field: Immunology and Microbiology,External environment,0.00535987904904987,0.01811771406012125,-0.0347902619129703,0.04020681578698754,False,37629
+2025,Full model,field[Materials Science],Field: Materials Science,External environment,-0.02310478218667023,0.014005070914106906,-0.05060681511003771,0.0011219071721525998,False,37629
+2025,Full model,field[Mathematics],Field: Mathematics,External environment,0.023071336755078255,0.01682906857837359,-0.005876851682441068,0.05593007228306896,False,37629
+2025,Full model,field[Medicine],Field: Medicine,External environment,0.022651806517519843,0.008856361419950087,0.005619103392268299,0.03929566268695166,False,37629
+2025,Full model,field[Neuroscience],Field: Neuroscience,External environment,-0.023889379645052743,0.017705116103110076,-0.05650244416741846,0.011854454114847136,False,37629
+2025,Full model,field[Nursing],Field: Nursing,External environment,0.005052496672649471,0.022839240554012034,-0.032014099892637274,0.0539572564200209,False,37629
+2025,Full model,"field[Pharmacology, Toxicology and Pharmaceutics]","Field: Pharmacology, Toxicology and Pharmaceutics",External environment,-0.03914049685163662,0.020306932261196103,-0.07212985905139109,-0.00303944048758327,False,37629
+2025,Full model,field[Physics and Astronomy],Field: Physics and Astronomy,External environment,0.02194474212392769,0.012007703795102097,-0.00012596178786575181,0.043282171209135446,False,37629
+2025,Full model,field[Psychology],Field: Psychology,External environment,-0.011280224848140948,0.013107502852427101,-0.03473123767057966,0.014235970774174161,False,37629
+2025,Full model,field[Social Sciences],Field: Social Sciences,External environment,-0.05610080052938027,0.01250054956867128,-0.08312722413158107,-0.03173414558091651,False,37629
+2025,Full model,field[Veterinary],Field: Veterinary,External environment,0.024308211282353588,0.01759907683169108,-0.009167341253642991,0.05860962405480806,False,37629
+2025,Full model,country,English-speaking affiliation share,External environment,0.020692564938403712,0.005145717854253706,0.012359526911071988,0.03256243070065443,False,37629
+2025,Full model,z_collaborators,Distinct collaborator count: z,External environment,-0.08518999418284808,0.006121843991348323,-0.0973257857857019,-0.07331250064828826,False,37629
+2025,Full model,z_collaborators^2,Distinct collaborator count: z squared,External environment,-0.003038169324832319,0.002036054370926586,-0.0072669587775022,0.0008789296349543932,False,37629
+2025,Full model,z_team,Mean team size: z,External environment,0.04640775173446862,0.005883085218829777,0.03390571858284245,0.058174662584601425,False,37629
+2025,Full model,z_team^2,Mean team size: z squared,External environment,0.006317378928484606,0.001723792894882522,0.0030468514044189507,0.010026413277593297,False,37629
+2026,Baseline,Intercept,Intercept,Common baseline,-0.0029951235563988165,0.014473981702985998,-0.030517472381084224,0.02612922051100474,False,37629
+2026,Baseline,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[0]",Early R: spline 1,Common baseline,-0.05458610463579793,0.023329555679012678,-0.10448880771512245,-0.013625963460513271,False,37629
+2026,Baseline,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[1]",Early R: spline 2,Common baseline,0.04529505296205069,0.01472186841812572,0.01861737625242899,0.07220320754819276,False,37629
+2026,Baseline,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[2]",Early R: spline 3,Common baseline,0.2537497783151171,0.03333293058092203,0.19290781626951525,0.3153098603320261,False,37629
+2026,Baseline,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[3]",Early R: spline 4,Common baseline,-0.1560861956354229,0.06203409820324914,-0.2767821619177794,-0.041159689523118353,False,37629
+2026,Baseline,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[4]",Early R: spline 5,Common baseline,0.4418092419687012,0.12605289879166073,0.22561245082023546,0.7388835720525295,False,37629
+2026,Baseline + personal,Intercept,Intercept,Common baseline,0.019787876435744936,0.017839194042723824,-0.015746533666615947,0.052152819546358496,False,37629
+2026,Baseline + personal,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[0]",Early R: spline 1,Common baseline,-0.053338697599622835,0.023458297233404195,-0.10070174244279494,-0.011532218160901801,False,37629
+2026,Baseline + personal,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[1]",Early R: spline 2,Common baseline,0.039749586768234715,0.014775093463722841,0.013888886851381427,0.0663001124214901,False,37629
+2026,Baseline + personal,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[2]",Early R: spline 3,Common baseline,0.2716920497961647,0.03414068032954484,0.20872224776644105,0.3345882193111518,False,37629
+2026,Baseline + personal,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[3]",Early R: spline 4,Common baseline,-0.11050548071282211,0.06157647487512314,-0.2293191475777471,0.012394007509588648,False,37629
+2026,Baseline + personal,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[4]",Early R: spline 5,Common baseline,0.4905328134149691,0.12577961060264028,0.2789901498334618,0.7985913483296991,False,37629
+2026,Baseline + personal,"bs(age_years, df=4, degree=3)[0]",Academic age: spline 1,Personal background,-0.006335184157899072,0.016108499866391335,-0.03621869759025711,0.029056448264539868,False,37629
+2026,Baseline + personal,"bs(age_years, df=4, degree=3)[1]",Academic age: spline 2,Personal background,-0.10458706891147583,0.02234177761547008,-0.14790188709861846,-0.05950628510848588,False,37629
+2026,Baseline + personal,"bs(age_years, df=4, degree=3)[2]",Academic age: spline 3,Personal background,0.06744009749150778,0.033801625164549744,0.001707878278354053,0.1291850459803133,False,37629
+2026,Baseline + personal,"bs(age_years, df=4, degree=3)[3]",Academic age: spline 4,Personal background,-0.11593816226632749,0.031969685848254416,-0.17573520365432205,-0.055846698604096134,False,37629
+2026,Baseline + personal,z_history,Cumulative first-author output: z,Personal background,0.01668555400170584,0.004037850580370967,0.007729784323620444,0.02324083005247486,False,37629
+2026,Baseline + personal,z_history^2,Cumulative first-author output: z squared,Personal background,0.0039395578374082285,0.0019169380797130734,0.00047817156555410615,0.007632135872334062,False,37629
+2026,Baseline + personal,z_recent,Recent first-author output: z,Personal background,-0.007111934945198307,0.0034694175795109724,-0.014711235472708877,-1.9427862178020305e-05,False,37629
+2026,Baseline + personal,z_recent^2,Recent first-author output: z squared,Personal background,-0.0036562769402402606,0.0019025012924337584,-0.007180299369619028,0.0004608443954759063,False,37629
+2026,Baseline + personal,z_early_n,Early publication count: z,Personal background,0.015442057992614288,0.0035566430706230534,0.009250340585643523,0.021879438132251426,False,37629
+2026,Baseline + personal,z_early_n^2,Early publication count: z squared,Personal background,-9.479456790014836e-05,0.001972529703936342,-0.004000967677701188,0.003355168193351222,False,37629
+2026,Baseline + personal,pre_alpha,Historical mean alpha,Personal background,-0.08296993992737044,0.03214367669508228,-0.14470720720222582,-0.023611865421823693,False,37629
+2026,Baseline + personal,pre_alpha^2,Historical mean alpha: squared,Personal background,0.04016671401252098,0.06047048694135741,-0.07549536820868726,0.15395552788050593,False,37629
+2026,Baseline + environment,Intercept,Intercept,Common baseline,-0.036033267238390086,0.016502462514926392,-0.06430144255912598,-0.00524507074037941,False,37629
+2026,Baseline + environment,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[0]",Early R: spline 1,Common baseline,-0.0215195405759615,0.02367015550573222,-0.07197010185035635,0.01933512616910543,False,37629
+2026,Baseline + environment,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[1]",Early R: spline 2,Common baseline,0.030616606984601454,0.014798160139963755,0.0035175328410743615,0.05831479846200719,False,37629
+2026,Baseline + environment,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[2]",Early R: spline 3,Common baseline,0.26959112740899027,0.03398036180759822,0.20581712787548304,0.3377911646099151,False,37629
+2026,Baseline + environment,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[3]",Early R: spline 4,Common baseline,-0.06014041229795445,0.0642337057193273,-0.17843109717315508,0.06905470945776566,False,37629
+2026,Baseline + environment,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[4]",Early R: spline 5,Common baseline,0.3566473153673122,0.1323652832125989,0.11145916797673695,0.6577804906953751,False,37629
+2026,Baseline + environment,field[Agricultural and Biological Sciences],Field: Agricultural and Biological Sciences,External environment,0.0,0.0,0.0,0.0,True,37629
+2026,Baseline + environment,field[Arts and Humanities],Field: Arts and Humanities,External environment,0.011544047577432926,0.017698311101100612,-0.02509661520663304,0.04736735756899185,False,37629
+2026,Baseline + environment,"field[Biochemistry, Genetics and Molecular Biology]","Field: Biochemistry, Genetics and Molecular Biology",External environment,-0.009917648294593637,0.012620728978608204,-0.030656175130164946,0.0151083955467887,False,37629
+2026,Baseline + environment,"field[Business, Management and Accounting]","Field: Business, Management and Accounting",External environment,-0.07218310501175171,0.014712461783534277,-0.10195860156148258,-0.046967374114680056,False,37629
+2026,Baseline + environment,field[Chemical Engineering],Field: Chemical Engineering,External environment,-0.028813542369371135,0.02297982871853184,-0.07368996210323069,0.012678691491708437,False,37629
+2026,Baseline + environment,field[Chemistry],Field: Chemistry,External environment,0.005542852489874879,0.021653825016620692,-0.03610239333899171,0.0467419649717029,False,37629
+2026,Baseline + environment,field[Computer Science],Field: Computer Science,External environment,-0.02823227315219705,0.011285492896995531,-0.048362853304424226,-0.004484535000486808,False,37629
+2026,Baseline + environment,field[Decision Sciences],Field: Decision Sciences,External environment,0.04321850550547345,0.02165994199755762,-0.0055345195300339975,0.08148193127187976,False,37629
+2026,Baseline + environment,field[Dentistry],Field: Dentistry,External environment,0.034116953429211554,0.024949952109836793,-0.018373239952134093,0.08236072833667643,False,37629
+2026,Baseline + environment,field[Earth and Planetary Sciences],Field: Earth and Planetary Sciences,External environment,0.05173475367682079,0.01807104136517962,0.018268317824246608,0.08277638113514109,False,37629
+2026,Baseline + environment,"field[Economics, Econometrics and Finance]","Field: Economics, Econometrics and Finance",External environment,-0.01617780716266911,0.017117258027171692,-0.04869311415445376,0.02243292495191886,False,37629
+2026,Baseline + environment,field[Energy],Field: Energy,External environment,-0.02799661197289611,0.017890702647265534,-0.06463752661477855,0.0039133806203241845,False,37629
+2026,Baseline + environment,field[Engineering],Field: Engineering,External environment,-0.030292517902213177,0.01163904439919906,-0.05268712352876827,-0.007749385515758176,False,37629
+2026,Baseline + environment,field[Environmental Science],Field: Environmental Science,External environment,0.01699318737211411,0.013535361815356509,-0.010064964192708055,0.042305320566905766,False,37629
+2026,Baseline + environment,field[Health Professions],Field: Health Professions,External environment,-0.005237149874459871,0.01631948088285035,-0.034099551477832356,0.026713861308837152,False,37629
+2026,Baseline + environment,field[Immunology and Microbiology],Field: Immunology and Microbiology,External environment,0.042282993454196685,0.022333616291322866,-0.0002482704062188328,0.08065036152822504,False,37629
+2026,Baseline + environment,field[Materials Science],Field: Materials Science,External environment,-0.0029924293821347054,0.014274056148163117,-0.02839717732771506,0.023812693854802586,False,37629
+2026,Baseline + environment,field[Mathematics],Field: Mathematics,External environment,0.06011487650685749,0.018981860169790667,0.020405352739988867,0.09754299112196052,False,37629
+2026,Baseline + environment,field[Medicine],Field: Medicine,External environment,0.046715960009362595,0.009989901524073787,0.028255527405396934,0.06339707208659849,False,37629
+2026,Baseline + environment,field[Neuroscience],Field: Neuroscience,External environment,0.00147910334902698,0.0183872918480101,-0.03462468331868291,0.03616880847455319,False,37629
+2026,Baseline + environment,field[Nursing],Field: Nursing,External environment,0.015078098541598191,0.024909570887294556,-0.03827041934567693,0.05970050724007891,False,37629
+2026,Baseline + environment,"field[Pharmacology, Toxicology and Pharmaceutics]","Field: Pharmacology, Toxicology and Pharmaceutics",External environment,0.007641595420750403,0.02263789670503813,-0.0311575803101287,0.0555920135384772,False,37629
+2026,Baseline + environment,field[Physics and Astronomy],Field: Physics and Astronomy,External environment,0.06333007167257375,0.014506356628518884,0.03147059480843473,0.08669977741758472,False,37629
+2026,Baseline + environment,field[Psychology],Field: Psychology,External environment,0.031369406518265044,0.013903813425028243,0.0038929489137185273,0.05246310386628169,False,37629
+2026,Baseline + environment,field[Social Sciences],Field: Social Sciences,External environment,-0.01403403413615721,0.013357573405164998,-0.041767677808255334,0.011996561500812217,False,37629
+2026,Baseline + environment,field[Veterinary],Field: Veterinary,External environment,0.03340058561185137,0.019583877271344495,-0.008765739131213028,0.06683380911066202,False,37629
+2026,Baseline + environment,country,English-speaking affiliation share,External environment,0.03230237356154389,0.004963133449713485,0.022793184414328305,0.04080119368450533,False,37629
+2026,Baseline + environment,z_collaborators,Distinct collaborator count: z,External environment,-0.006609783543106043,0.004192314274422489,-0.014121936343324424,0.0027042806108279337,False,37629
+2026,Baseline + environment,z_collaborators^2,Distinct collaborator count: z squared,External environment,-0.0017108743500446621,0.0021316809243065713,-0.005559224666667002,0.0027361172809636496,False,37629
+2026,Baseline + environment,z_team,Mean team size: z,External environment,-0.017390404304821066,0.004594502234577482,-0.026438551555084417,-0.00855773310895687,False,37629
+2026,Baseline + environment,z_team^2,Mean team size: z squared,External environment,0.010009785570746941,0.0018873897506154944,0.006728445898514769,0.013596650463752519,False,37629
+2026,Full model,Intercept,Intercept,Common baseline,-0.013483166353248106,0.01733174290019052,-0.04573543063446563,0.017085776517595835,False,37629
+2026,Full model,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[0]",Early R: spline 1,Common baseline,-0.01866740244137115,0.02372165420274,-0.06562683678995686,0.023813926866988806,False,37629
+2026,Full model,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[1]",Early R: spline 2,Common baseline,0.025345423026002123,0.014920066550703914,-0.0017044767828856468,0.053162785473119735,False,37629
+2026,Full model,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[2]",Early R: spline 3,Common baseline,0.28809837144697353,0.03458897804866437,0.22619032184757326,0.3559489241670865,False,37629
+2026,Full model,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[3]",Early R: spline 4,Common baseline,-0.01844124553370286,0.06442383853541367,-0.1327399939347353,0.10465244170101849,False,37629
+2026,Full model,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[4]",Early R: spline 5,Common baseline,0.399629580924951,0.13195172491651713,0.16387251050269733,0.7201271875764171,False,37629
+2026,Full model,"bs(age_years, df=4, degree=3)[0]",Academic age: spline 1,Personal background,-0.012145256003027237,0.012367195950303132,-0.03488847109640161,0.015496912326711177,False,37629
+2026,Full model,"bs(age_years, df=4, degree=3)[1]",Academic age: spline 2,Personal background,-0.02632276613668805,0.016523059016016212,-0.05550079284594078,0.007620768645345538,False,37629
+2026,Full model,"bs(age_years, df=4, degree=3)[2]",Academic age: spline 3,Personal background,-0.010052390031885829,0.018662825286011278,-0.04197643183001704,0.023323076022641966,False,37629
+2026,Full model,"bs(age_years, df=4, degree=3)[3]",Academic age: spline 4,Personal background,-0.06248156211802063,0.018533612732506203,-0.10078934062801545,-0.028739367667623698,False,37629
+2026,Full model,z_history,Cumulative first-author output: z,Personal background,0.015180590032605443,0.0035452218058689383,0.007672749571273791,0.021734323858408552,False,37629
+2026,Full model,z_history^2,Cumulative first-author output: z squared,Personal background,0.0025973771425221903,0.0018545661094557882,-0.00046673497832903167,0.006240627728401678,False,37629
+2026,Full model,z_recent,Recent first-author output: z,Personal background,-0.002305943430017912,0.0034324316012503174,-0.009729563369216388,0.004177136904984716,False,37629
+2026,Full model,z_recent^2,Recent first-author output: z squared,Personal background,-0.0013146229459202856,0.0018805764233962847,-0.005010977368805267,0.002789270556528848,False,37629
+2026,Full model,z_early_n,Early publication count: z,Personal background,0.04448565262562025,0.004351140968939603,0.03591957037020072,0.05272726514391587,False,37629
+2026,Full model,z_early_n^2,Early publication count: z squared,Personal background,-0.001969376923401905,0.00197970705006717,-0.00592372684590107,0.0013285623865430696,False,37629
+2026,Full model,pre_alpha,Historical mean alpha,Personal background,-0.03125788467201122,0.017225218774042816,-0.06701276168771889,0.004121716291581992,False,37629
+2026,Full model,pre_alpha^2,Historical mean alpha: squared,Personal background,-0.0057276381301333695,0.01272558187368033,-0.03090083962990585,0.020303486871624792,False,37629
+2026,Full model,field[Agricultural and Biological Sciences],Field: Agricultural and Biological Sciences,External environment,0.0,0.0,0.0,0.0,True,37629
+2026,Full model,field[Arts and Humanities],Field: Arts and Humanities,External environment,0.010909171226780048,0.01755437878393705,-0.025307656202657697,0.04509703460555726,False,37629
+2026,Full model,"field[Biochemistry, Genetics and Molecular Biology]","Field: Biochemistry, Genetics and Molecular Biology",External environment,-0.007682351511686086,0.012489464799414733,-0.028113802633282708,0.016972732611920442,False,37629
+2026,Full model,"field[Business, Management and Accounting]","Field: Business, Management and Accounting",External environment,-0.06996959230198617,0.014757457696791099,-0.10164907964117482,-0.045057654824227016,False,37629
+2026,Full model,field[Chemical Engineering],Field: Chemical Engineering,External environment,-0.0341443971747698,0.022442425149452043,-0.08117577406773875,0.007943699026033707,False,37629
+2026,Full model,field[Chemistry],Field: Chemistry,External environment,0.0011124233461075527,0.02150566347823017,-0.040264194513980923,0.04186538051989394,False,37629
+2026,Full model,field[Computer Science],Field: Computer Science,External environment,-0.03087730821590249,0.011239834839032202,-0.051199993956372175,-0.0071613726110014726,False,37629
+2026,Full model,field[Decision Sciences],Field: Decision Sciences,External environment,0.04123604062998315,0.02132410101714055,-0.004985452006267072,0.0784948059105612,False,37629
+2026,Full model,field[Dentistry],Field: Dentistry,External environment,0.03100415007610014,0.024785207597557767,-0.018706795881645085,0.0787674725118412,False,37629
+2026,Full model,field[Earth and Planetary Sciences],Field: Earth and Planetary Sciences,External environment,0.047374938008417015,0.017917118028333283,0.013436203236262935,0.07848446061850396,False,37629
+2026,Full model,"field[Economics, Econometrics and Finance]","Field: Economics, Econometrics and Finance",External environment,-0.024103612398843476,0.017149808490777414,-0.05572043018998669,0.012775173526126506,False,37629
+2026,Full model,field[Energy],Field: Energy,External environment,-0.027886630817435247,0.01775566404434469,-0.0642667379623995,0.0045928180625158955,False,37629
+2026,Full model,field[Engineering],Field: Engineering,External environment,-0.03682279681948247,0.011458800223617616,-0.059833180879978035,-0.014663182722650226,False,37629
+2026,Full model,field[Environmental Science],Field: Environmental Science,External environment,0.013440986270387303,0.013532600817172257,-0.014210789383009468,0.039923899910960105,False,37629
+2026,Full model,field[Health Professions],Field: Health Professions,External environment,-0.005177873762449176,0.016349216776763053,-0.0342802311294088,0.02724053124451946,False,37629
+2026,Full model,field[Immunology and Microbiology],Field: Immunology and Microbiology,External environment,0.04340318405838382,0.02221170376647388,0.004102568036734706,0.08073187842408158,False,37629
+2026,Full model,field[Materials Science],Field: Materials Science,External environment,-0.012344653510319202,0.014303209803373577,-0.03773619857735894,0.016256906124196828,False,37629
+2026,Full model,field[Mathematics],Field: Mathematics,External environment,0.05556583705184136,0.018860341566621856,0.017208589142463742,0.09455182450492362,False,37629
+2026,Full model,field[Medicine],Field: Medicine,External environment,0.04207538905992912,0.00991476269980105,0.023684259260892303,0.058560068366499074,False,37629
+2026,Full model,field[Neuroscience],Field: Neuroscience,External environment,-0.00436535934478415,0.018317791317109686,-0.04121031479629958,0.028793372163459383,False,37629
+2026,Full model,field[Nursing],Field: Nursing,External environment,0.010319715932501859,0.024915956337185626,-0.04372152464102376,0.054596294535932205,False,37629
+2026,Full model,"field[Pharmacology, Toxicology and Pharmaceutics]","Field: Pharmacology, Toxicology and Pharmaceutics",External environment,0.0032028986506456056,0.022480222267176806,-0.035619451569064944,0.0510120602121668,False,37629
+2026,Full model,field[Physics and Astronomy],Field: Physics and Astronomy,External environment,0.05542255100001747,0.01447858136175947,0.023767515304750696,0.0790664667914234,False,37629
+2026,Full model,field[Psychology],Field: Psychology,External environment,0.02608980782079607,0.013905066351311335,-0.0009323065776044073,0.047389001229471796,False,37629
+2026,Full model,field[Social Sciences],Field: Social Sciences,External environment,-0.018883580641613204,0.013436818669282525,-0.04543831502098161,0.00668330773795092,False,37629
+2026,Full model,field[Veterinary],Field: Veterinary,External environment,0.02572801834400077,0.01937509233204575,-0.015002854305952773,0.05856920682363545,False,37629
+2026,Full model,country,English-speaking affiliation share,External environment,0.03571448604309129,0.0050682039110891,0.025802242400105476,0.044538656792680535,False,37629
+2026,Full model,z_collaborators,Distinct collaborator count: z,External environment,-0.07414866962220512,0.006404519444460092,-0.08581436065078452,-0.059425323728273464,False,37629
+2026,Full model,z_collaborators^2,Distinct collaborator count: z squared,External environment,-0.007161385576682574,0.0021842919800138198,-0.011120026480639637,-0.002350316564668767,False,37629
+2026,Full model,z_team,Mean team size: z,External environment,0.04104622790867795,0.006260577096448163,0.02924626952548648,0.05337480455943723,False,37629
+2026,Full model,z_team^2,Mean team size: z squared,External environment,0.00785944121992332,0.0018066132295406277,0.0044134454833588245,0.011562672718078837,False,37629

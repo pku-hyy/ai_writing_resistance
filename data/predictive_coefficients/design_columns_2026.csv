@@ -1,0 +1,50 @@
+group,label,term
+Common baseline,Intercept,Intercept
+Common baseline,Early R: spline 1,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[0]"
+Common baseline,Early R: spline 2,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[1]"
+Common baseline,Early R: spline 3,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[2]"
+Common baseline,Early R: spline 4,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[3]"
+Common baseline,Early R: spline 5,"bs(early_R, knots=(0.1, 0.3), degree=3, include_intercept=False, lower_bound=0, upper_bound=1)[4]"
+Personal background,Academic age: spline 1,"bs(age_years, df=4, degree=3)[0]"
+Personal background,Academic age: spline 2,"bs(age_years, df=4, degree=3)[1]"
+Personal background,Academic age: spline 3,"bs(age_years, df=4, degree=3)[2]"
+Personal background,Academic age: spline 4,"bs(age_years, df=4, degree=3)[3]"
+Personal background,Cumulative first-author output: z,z_history
+Personal background,Cumulative first-author output: z squared,z_history^2
+Personal background,Recent first-author output: z,z_recent
+Personal background,Recent first-author output: z squared,z_recent^2
+Personal background,Early publication count: z,z_early_n
+Personal background,Early publication count: z squared,z_early_n^2
+Personal background,Historical mean alpha,pre_alpha
+Personal background,Historical mean alpha: squared,pre_alpha^2
+External environment,Field: Agricultural and Biological Sciences,field[Agricultural and Biological Sciences]
+External environment,Field: Arts and Humanities,field[Arts and Humanities]
+External environment,"Field: Biochemistry, Genetics and Molecular Biology","field[Biochemistry, Genetics and Molecular Biology]"
+External environment,"Field: Business, Management and Accounting","field[Business, Management and Accounting]"
+External environment,Field: Chemical Engineering,field[Chemical Engineering]
+External environment,Field: Chemistry,field[Chemistry]
+External environment,Field: Computer Science,field[Computer Science]
+External environment,Field: Decision Sciences,field[Decision Sciences]
+External environment,Field: Dentistry,field[Dentistry]
+External environment,Field: Earth and Planetary Sciences,field[Earth and Planetary Sciences]
+External environment,"Field: Economics, Econometrics and Finance","field[Economics, Econometrics and Finance]"
+External environment,Field: Energy,field[Energy]
+External environment,Field: Engineering,field[Engineering]
+External environment,Field: Environmental Science,field[Environmental Science]
+External environment,Field: Health Professions,field[Health Professions]
+External environment,Field: Immunology and Microbiology,field[Immunology and Microbiology]
+External environment,Field: Materials Science,field[Materials Science]
+External environment,Field: Mathematics,field[Mathematics]
+External environment,Field: Medicine,field[Medicine]
+External environment,Field: Neuroscience,field[Neuroscience]
+External environment,Field: Nursing,field[Nursing]
+External environment,"Field: Pharmacology, Toxicology and Pharmaceutics","field[Pharmacology, Toxicology and Pharmaceutics]"
+External environment,Field: Physics and Astronomy,field[Physics and Astronomy]
+External environment,Field: Psychology,field[Psychology]
+External environment,Field: Social Sciences,field[Social Sciences]
+External environment,Field: Veterinary,field[Veterinary]
+External environment,English-speaking affiliation share,country
+External environment,Distinct collaborator count: z,z_collaborators
+External environment,Distinct collaborator count: z squared,z_collaborators^2
+External environment,Mean team size: z,z_team
+External environment,Mean team size: z squared,z_team^2

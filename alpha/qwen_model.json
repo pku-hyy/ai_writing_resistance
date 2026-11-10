@@ -1,0 +1,18 @@
+{
+  "model": "qwen/qwen-2.5-72b-instruct",
+  "training_pairs": 7200,
+  "human_sentences": 62971,
+  "ai_sentences": 52385,
+  "vocabulary_size": 15587,
+  "minimum_human_occurrences": 5,
+  "minimum_ai_occurrences": 3,
+  "smoothing": "Jeffreys 0.5",
+  "pooled_across_fields": true,
+  "bisection_iterations": 32,
+  "source_sha256": "0b3c9f033533c1261e5a0ff84cf0b82634051a5c99f20e32a5813d716b3bc083",
+  "qc_pass_pairs": 3828,
+  "flagged_pairs": 3372,
+  "flagged_pairs_retained": true,
+  "human_texts_identical_to_gpt": true,
+  "human_probabilities_identical_on_shared_vocabulary": true
+}

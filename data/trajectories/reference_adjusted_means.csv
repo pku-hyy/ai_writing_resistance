@@ -1,0 +1,118 @@
+section,metric,period,group,mean,lower,upper,authors
+Core reference measures,age_mean,Historical,Stable non-resistance,9.714252489441966,9.661187490594465,9.767317488289468,9573
+Core reference measures,age_mean,Historical,Delayed adoption,10.021069769304608,9.95496794410347,10.087171594505746,6330
+Core reference measures,age_mean,Historical,Persistent resistance,10.45558345402418,10.385636265419796,10.525530642628565,8274
+Core reference measures,age_mean,Early,Stable non-resistance,9.026604425880203,8.966108333562232,9.087100518198174,9573
+Core reference measures,age_mean,Early,Delayed adoption,9.763970151786351,9.681999002136752,9.84594130143595,6330
+Core reference measures,age_mean,Early,Persistent resistance,10.494731669083688,10.407877751483603,10.581585586683772,8274
+Core reference measures,age_mean,Late,Stable non-resistance,8.97837020925847,8.916272130954153,9.040468287562787,9573
+Core reference measures,age_mean,Late,Delayed adoption,9.44880548769904,9.368047076507105,9.529563898890975,6330
+Core reference measures,age_mean,Late,Persistent resistance,10.553690971429074,10.466621021391768,10.640760921466379,8274
+Core reference measures,age_median,Historical,Stable non-resistance,7.441325077237821,7.394791640878938,7.487858513596705,9573
+Core reference measures,age_median,Historical,Delayed adoption,7.691086047168362,7.633462677881533,7.748709416455191,6330
+Core reference measures,age_median,Historical,Persistent resistance,7.953928376419484,7.894560033120919,8.01329671971805,8274
+Core reference measures,age_median,Early,Stable non-resistance,6.751394033569951,6.69870210503624,6.804085962103661,9573
+Core reference measures,age_median,Early,Delayed adoption,7.383564833943213,7.311425320867734,7.455704347018692,6330
+Core reference measures,age_median,Early,Persistent resistance,7.910788897160214,7.835111888649386,7.986465905671042,8274
+Core reference measures,age_median,Late,Stable non-resistance,6.766745727533612,6.712813189698288,6.820678265368937,9573
+Core reference measures,age_median,Late,Delayed adoption,7.173972551634923,7.10247989224448,7.2454652110253654,6330
+Core reference measures,age_median,Late,Persistent resistance,8.039993764841169,7.963208096908147,8.116779432774191,8274
+Core reference measures,variety,Historical,Stable non-resistance,9.364803399648897,9.316710899837705,9.41289589946009,9573
+Core reference measures,variety,Historical,Delayed adoption,9.17029603813678,9.111647392570259,9.2289446837033,6330
+Core reference measures,variety,Historical,Persistent resistance,9.067877367674669,9.014611494532478,9.12114324081686,8274
+Core reference measures,variety,Early,Stable non-resistance,10.565912799031214,10.500263263390238,10.63156233467219,9573
+Core reference measures,variety,Early,Delayed adoption,10.118111152605415,10.038139666445167,10.198082638765664,6330
+Core reference measures,variety,Early,Persistent resistance,9.92608403573357,9.855826615776438,9.996341455690702,8274
+Core reference measures,variety,Late,Stable non-resistance,10.694857117459375,10.628281850075538,10.76143238484321,9573
+Core reference measures,variety,Late,Delayed adoption,10.357847349098344,10.277500177300206,10.438194520896483,6330
+Core reference measures,variety,Late,Persistent resistance,9.97537413227364,9.903803425954598,10.046944838592681,8274
+Core reference measures,balance,Historical,Stable non-resistance,0.6697255896618662,0.668432145025861,0.6710190342978715,9573
+Core reference measures,balance,Historical,Delayed adoption,0.6699028060914117,0.6682908739236245,0.6715147382591989,6330
+Core reference measures,balance,Historical,Persistent resistance,0.6697391761635345,0.6682841409048652,0.6711942114222038,8274
+Core reference measures,balance,Early,Stable non-resistance,0.6663054538019857,0.664598658628496,0.6680122489754754,9573
+Core reference measures,balance,Early,Delayed adoption,0.6625189367893837,0.6603573967555262,0.6646804768232412,6330
+Core reference measures,balance,Early,Persistent resistance,0.6636543497320194,0.6616825853530144,0.6656261141110245,8274
+Core reference measures,balance,Late,Stable non-resistance,0.6730159610924511,0.6712867504922941,0.6747451716926081,9573
+Core reference measures,balance,Late,Delayed adoption,0.6732327486221983,0.6710821593732754,0.6753833378711211,6330
+Core reference measures,balance,Late,Persistent resistance,0.6683459927706178,0.6663244064131352,0.6703675791281004,8274
+Core reference measures,diversity,Historical,Stable non-resistance,0.6121615793376468,0.609757736975458,0.6145654216998356,9573
+Core reference measures,diversity,Historical,Delayed adoption,0.6036524820962331,0.6006512857615789,0.6066536784308874,6330
+Core reference measures,diversity,Historical,Persistent resistance,0.5991060726981049,0.5963102406846922,0.6019019047115176,8274
+Core reference measures,diversity,Early,Stable non-resistance,0.6364569372150147,0.6336475481338276,0.6392663262962018,9573
+Core reference measures,diversity,Early,Delayed adoption,0.6171072247272845,0.6134672610311377,0.6207471884234314,6330
+Core reference measures,diversity,Early,Persistent resistance,0.6103168685267314,0.6070260961091134,0.6136076409443494,8274
+Core reference measures,diversity,Late,Stable non-resistance,0.6449544491912562,0.6420923184666834,0.6478165799158291,9573
+Core reference measures,diversity,Late,Delayed adoption,0.6335783023121746,0.6299868005042217,0.6371698041201275,6330
+Core reference measures,diversity,Late,Persistent resistance,0.6147875037629595,0.6114254097670543,0.6181495977588648,8274
+Core reference measures,reuse,Historical,Stable non-resistance,18.01961096748995,17.80687112483388,18.23235081014602,9573
+Core reference measures,reuse,Historical,Delayed adoption,18.58785347125131,18.328712336076048,18.846994606426573,6330
+Core reference measures,reuse,Historical,Persistent resistance,21.2163446624259,20.976209683745857,21.456479641105943,8274
+Core reference measures,reuse,Early,Stable non-resistance,19.42341154772208,19.131533974218204,19.715289121225954,9573
+Core reference measures,reuse,Early,Delayed adoption,21.262531757652084,20.883238641494742,21.641824873809426,6330
+Core reference measures,reuse,Early,Persistent resistance,26.042097353487996,25.6880892626162,26.396105444359794,8274
+Core reference measures,reuse,Late,Stable non-resistance,19.352636780349865,19.037179399522444,19.668094161177287,9573
+Core reference measures,reuse,Late,Delayed adoption,20.507511569928973,20.12480468896107,20.890218450896874,6330
+Core reference measures,reuse,Late,Persistent resistance,27.236699815507084,26.851404395566522,27.621995235447645,8274
+Reference age bands,age_0_7,Historical,Stable non-resistance,55.09036985921194,54.852220669961525,55.328519048462354,9573
+Reference age bands,age_0_7,Historical,Delayed adoption,53.83600364424661,53.547307702294425,54.124699586198794,6330
+Reference age bands,age_0_7,Historical,Persistent resistance,53.08461810868231,52.81373808989104,53.355498127473574,8274
+Reference age bands,age_8_19,Historical,Stable non-resistance,32.865303158324,32.707004120898894,33.0236021957491,9573
+Reference age bands,age_8_19,Historical,Delayed adoption,33.42446366655918,33.23401379566927,33.614913537449084,6330
+Reference age bands,age_8_19,Historical,Persistent resistance,32.91604418363318,32.74621372091536,33.08587464635101,8274
+Reference age bands,age_20_plus,Historical,Stable non-resistance,12.044326982464058,11.906066664806959,12.182587300121158,9573
+Reference age bands,age_20_plus,Historical,Delayed adoption,12.739532689194144,12.56654718130793,12.912518197080358,6330
+Reference age bands,age_20_plus,Historical,Persistent resistance,13.99933770768448,13.824540523210851,14.17413489215811,8274
+Reference age bands,age_0_7,Early,Stable non-resistance,59.494063884383564,59.2050109894135,59.78311677935363,9573
+Reference age bands,age_0_7,Early,Delayed adoption,56.365479643817636,56.00497850339471,56.72598078424056,6330
+Reference age bands,age_0_7,Early,Persistent resistance,54.22331668150257,53.89561125914301,54.551022103862124,8274
+Reference age bands,age_8_19,Early,Stable non-resistance,29.661294245550604,29.461597528625386,29.86099096247582,9573
+Reference age bands,age_8_19,Early,Delayed adoption,31.041929492414344,30.80155800233124,31.282300982497446,6330
+Reference age bands,age_8_19,Early,Persistent resistance,31.392113463685682,31.18018734978129,31.604039577590076,8274
+Reference age bands,age_20_plus,Early,Stable non-resistance,10.84464187006597,10.692453906051208,10.996829834080733,9573
+Reference age bands,age_20_plus,Early,Delayed adoption,12.592590863768164,12.379592593385473,12.805589134150855,6330
+Reference age bands,age_20_plus,Early,Persistent resistance,14.384569854811915,14.167909128539318,14.601230581084511,8274
+Reference age bands,age_0_7,Late,Stable non-resistance,59.953976342281145,59.65559479428109,60.252357890281196,9573
+Reference age bands,age_0_7,Late,Delayed adoption,57.646778340698745,57.277040524139586,58.016516157257904,6330
+Reference age bands,age_0_7,Late,Persistent resistance,53.62239865657099,53.28335299056599,53.961444322575986,8274
+Reference age bands,age_8_19,Late,Stable non-resistance,29.328193995175212,29.12205368083387,29.534334309516556,9573
+Reference age bands,age_8_19,Late,Delayed adoption,30.556474751056385,30.307057076221348,30.80589242589142,6330
+Reference age bands,age_8_19,Late,Persistent resistance,31.95243800318131,31.731367152008648,32.173508854353976,8274
+Reference age bands,age_20_plus,Late,Stable non-resistance,10.717829662543542,10.558529142146366,10.877130182940718,9573
+Reference age bands,age_20_plus,Late,Delayed adoption,11.796746908244696,11.586462073622897,12.007031742866495,6330
+Reference age bands,age_20_plus,Late,Persistent resistance,14.425163340247567,14.20054876545994,14.649777915035193,8274
+Initial five-year library,fixed_library,Early,Stable non-resistance,5.503242275712326,5.26665076685354,5.739833784571112,3925
+Initial five-year library,fixed_library,Early,Delayed adoption,6.265942110514997,5.953259915646692,6.578624305383302,2606
+Initial five-year library,fixed_library,Early,Persistent resistance,7.522821088881869,7.238931111244978,7.806711066518761,3638
+Initial five-year library,subsequent_reuse,Early,Stable non-resistance,15.395251489055298,15.01891470722574,15.771588270884855,3925
+Initial five-year library,subsequent_reuse,Early,Delayed adoption,16.43376023423818,15.942322730177805,16.925197738298554,2606
+Initial five-year library,subsequent_reuse,Early,Persistent resistance,20.122338352505224,19.69087976618465,20.553796938825798,3638
+Initial five-year library,first_observed,Early,Stable non-resistance,79.10150623523245,78.64744716451575,79.55556530594914,3925
+Initial five-year library,first_observed,Early,Delayed adoption,77.30029765524695,76.70030283948864,77.90029247100526,2606
+Initial five-year library,first_observed,Early,Persistent resistance,72.354840558613,71.82584761511964,72.88383350210637,3638
+Initial five-year library,fixed_library,Late,Stable non-resistance,3.331596361174518,3.14949458209523,3.513698140253806,3925
+Initial five-year library,fixed_library,Late,Delayed adoption,3.6942856425787456,3.4753072391338695,3.9132640460236217,2606
+Initial five-year library,fixed_library,Late,Persistent resistance,4.923332000575006,4.693749947016149,5.152914054133864,3638
+Initial five-year library,subsequent_reuse,Late,Stable non-resistance,17.93940297750364,17.48914880100482,18.38965715400246,3925
+Initial five-year library,subsequent_reuse,Late,Delayed adoption,18.861591128125937,18.315608633658485,19.40757362259339,2606
+Initial five-year library,subsequent_reuse,Late,Persistent resistance,23.790478512698435,23.28345490349688,24.29750212189999,3638
+Initial five-year library,first_observed,Late,Stable non-resistance,78.72900066132175,78.22140707981306,79.23659424283044,3925
+Initial five-year library,first_observed,Late,Delayed adoption,77.44412322929531,76.82970523086394,78.05854122772669,2606
+Initial five-year library,first_observed,Late,Persistent resistance,71.28618948672656,70.70837197062984,71.86400700282327,3638
+Pre-2023 library,fixed_library,Early,Stable non-resistance,15.446699036949282,15.22148580159352,15.671912272305043,9573
+Pre-2023 library,fixed_library,Early,Delayed adoption,16.793313704927517,16.50593417024713,17.080693239607903,6330
+Pre-2023 library,fixed_library,Early,Persistent resistance,19.024779432337148,18.76221100917263,19.287347855501665,8274
+Pre-2023 library,subsequent_reuse,Early,Stable non-resistance,4.875142743395944,4.7618132541559905,4.988472232635898,9573
+Pre-2023 library,subsequent_reuse,Early,Delayed adoption,4.993456744793198,4.849279163015922,5.137634326570474,6330
+Pre-2023 library,subsequent_reuse,Early,Persistent resistance,5.57676878679018,5.442256510603081,5.711281062977279,8274
+Pre-2023 library,first_observed,Early,Stable non-resistance,79.67815821965466,79.42185041720813,79.93446602210119,9573
+Pre-2023 library,first_observed,Early,Delayed adoption,78.21322955027914,77.89044054097886,78.53601855957942,6330
+Pre-2023 library,first_observed,Early,Persistent resistance,75.39845178087252,75.10352618484444,75.6933773769006,8274
+Pre-2023 library,fixed_library,Late,Stable non-resistance,8.942858329118085,8.761457522372789,9.124259135863381,9573
+Pre-2023 library,fixed_library,Late,Delayed adoption,9.665625266596532,9.447237889655106,9.884012643537957,6330
+Pre-2023 library,fixed_library,Late,Persistent resistance,12.414407147915568,12.1890674999726,12.639746795858537,8274
+Pre-2023 library,subsequent_reuse,Late,Stable non-resistance,11.227059659930152,11.023309304849981,11.430810015010323,9573
+Pre-2023 library,subsequent_reuse,Late,Delayed adoption,11.303011669523057,11.060604629828976,11.545418709217138,6330
+Pre-2023 library,subsequent_reuse,Late,Persistent resistance,13.523917446556387,13.28010469674852,13.767730196364255,8274
+Pre-2023 library,first_observed,Late,Stable non-resistance,79.83008201095186,79.54377429843758,80.11638972346613,9573
+Pre-2023 library,first_observed,Late,Delayed adoption,79.03136306388043,78.68964674074745,79.37307938701342,6330
+Pre-2023 library,first_observed,Late,Persistent resistance,74.06167540552808,73.72686063915337,74.39649017190278,8274

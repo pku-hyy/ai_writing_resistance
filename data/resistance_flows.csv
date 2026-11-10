@@ -1,0 +1,9 @@
+period_from,state_from,period_to,state_to,authors,cohort_authors,percent
+early,Non-resistant,2025,Non-resistant,23140,71133,32.53061167109499
+early,Non-resistant,2025,Resistant,10364,71133,14.569890205671065
+early,Resistant,2025,Non-resistant,16588,71133,23.319696905796185
+early,Resistant,2025,Resistant,21041,71133,29.57980121743776
+2025,Non-resistant,2026,Non-resistant,29547,71133,41.537682931972505
+2025,Non-resistant,2026,Resistant,10181,71133,14.312625644918672
+2025,Resistant,2026,Non-resistant,15125,71133,21.26298623704891
+2025,Resistant,2026,Resistant,16280,71133,22.886705186059917
